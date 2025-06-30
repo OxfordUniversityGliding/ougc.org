@@ -1,7 +1,12 @@
-title: Quartz
-tagline: A crystalline Jekyll theme for blog
-description: Just a stupid demo site.
+title: Oxford University Gliding Club
+baseurl: "/ougc.org"
+tagline: Gliding is fun!
+description: A society for flying in aircraft with no engines
 cover: /cover.jpg
 
 categories_path: /categories/
 tags_path: /tags/
+
+plugins:
+  - jekyll-remote-theme
+remote_theme: vfvong/jekyll-theme-quartz

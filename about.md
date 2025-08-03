@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+
 ---
 
 Welcome to the demo website of Quartz. Quartz is a crystalline Jekyll theme for blog.

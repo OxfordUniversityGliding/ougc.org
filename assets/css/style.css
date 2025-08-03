@@ -65,6 +65,11 @@ body.menu-open .site-wrapper {
   z-index: 1100;
 }
 
+/* When menu is open, make it black */
+body.menu-open .menu-toggle {
+  color: black;
+}
+
 /* === Navigation item === */
 .nav-item {
   display: flex;

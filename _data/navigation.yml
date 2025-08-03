@@ -1,10 +1,76 @@
 - title: Home
   url: /
 - title: About Gliding
-  url: /about/
-- title: Archive
-  url: /archive/
+  url: /about_gliding/
 - title: About OUGC
-  url: /about_ougc/
+  children:
+    - title: Committee
+      url: /about_ougc/committee/
+    - title: Pilot Stories
+      url: /about_ougc/pilot_stories/
+    - title: Aircraft
+      url: /about_ougc/aircraft/
+    - title: History
+      url: /about_ougc/history/
+    - title: Alumni - The 1937 Club
+      url: /about_ougc/alumni_1937_club/
+    - title: Events
+      url: /about_ougc/events/
+    - title: Safety
+      url: /about_ougc/safety/
+    - title: Club Documents
+      url: /about_ougc/documents/
 - title: Membership Information
   url: /about_ougc/membership/
+  children:
+    - title: Membership Benefits
+      url: /about_ougc/membership/benefits/
+    - title: How to Join
+      url: /about_ougc/membership/join/
+    - title: Fees
+      url: /about_ougc/membership/fees/
+    - title: How to Get to the Airfield
+      url: /about_ougc/membership/get_to_airfield/
+    - title: FAQs & Other Resources
+      url: /about_ougc/membership/faqs/
+    - title: OUGC Kit
+      url: /about_ougc/membership/ougc_kit/
+    - title: Weather
+      url: /about_ougc/membership/weather/
+- title: Introduction Days
+  url: /about_ougc/introduction_days/
+  children:
+    - title: Key Information
+      url: /about_ougc/introduction_days/key_information/
+    - title: Basic Airfield Safety
+      url: /about_ougc/introduction_days/basic_airfield_safety/
+    - title: What to Expect
+      url: /about_ougc/introduction_days/what_to_expect/
+- title: News
+  url: /news/
+- title: Achievements
+  url: /achievements/
+- title: Competitions
+  url: /competitions/
+  children:
+    - title: Varsity
+      url: /competitions/varsity/
+    - title: Varsity Results
+      url: /competitions/varsity_results/
+    - title: Cuppers Competition
+      url: /competitions/cuppers/
+    - title: Interunis
+      url: /competitions/interunis/
+    - title: Gliding Competitions
+      url: /competitions/gliding_competitions/
+- title: Trips, Training Weeks & Expeditions
+  url: /trips_training_weeks_expeditions/
+  children:
+    - title: About OUGC Trips
+      url: /trips_training_weeks_expeditions/trips/
+    - title: Places to go with ougc
+      url: /trips_training_weeks_expeditions/places/
+    - title: Aerobatics
+      url: /trips_training_weeks_expeditions/aerobatics/
+- title: Donate
+  url: /donate/

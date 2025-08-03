@@ -1,11 +1,14 @@
 - 
-  - title: About
-    url: /about/
-  - title: Archive
-    url: /archive/
+  - title: Home
+    url: /
+  - title: Introduction Days
+    url: /introduction_days/
 - 
-  - title: Categories
-    url: /categories/
+  - title: About OUGC
+    url: /about_ougc/
+  - title: Membership Information
+    url: /about_ougc/membership/
 - 
-  - title: Tags
-    url: /tags/
+  - title: Donate
+    url: /donate/
+    

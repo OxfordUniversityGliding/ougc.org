@@ -1,8 +1,9 @@
 ---
-layout: page
-title: About
-permalink: /about/
-
+layout: default
+title: About Gliding
+tagline: " "
+permalink: /about_gliding/
+image: /assets/images/covers/about_gliding_cover.webp
 ---
 
 Welcome to the demo website of Quartz. Quartz is a crystalline Jekyll theme for blog.

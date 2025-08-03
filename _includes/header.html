@@ -1,29 +1,76 @@
+<!-- Hamburger (top-right) -->
+<div class="menu-toggle" onclick="toggleMenu()">☰</div>
+
+<!-- Sidebar that slides in from the right -->
+<nav id="sidebar" class="sidebar">
+  {% for item in site.data.navigation %}
+    <div class="nav-item-wrapper">
+      <div class="nav-item">
+        {% if item.children %}
+          <button class="nav-parent-toggle" onclick="toggleSubmenu(event, this)">
+            {{ item.title }} <span class="icon">+</span>
+          </button>
+        {% else %}
+          <a href="{{ item.url | relative_url }}" class="{% if page.url == item.url %}active{% endif %}">
+            {{ item.title }}
+          </a>
+        {% endif %}
+      </div>
+
+      {% if item.children %}
+        <div class="submenu collapsed">
+          {% for child in item.children %}
+            <a class="submenu-item {% if page.url == child.url %}active{% endif %}" href="{{ child.url | relative_url }}">
+              {{ child.title }}
+            </a>
+          {% endfor %}
+        </div>
+      {% endif %}
+    </div>
+  {% endfor %}
+</nav>
+
+<!-- Main Site Content -->
+<div id="site-wrapper" class="site-wrapper">
+  <!-- your site’s content here -->
+
 {% assign cover = site.cover %}
 {% if page.image %}
   {% assign cover = page.image %}
 {% endif %}
-<header class="site-header large-header"{% if cover %} style="background-image: url({{ cover | relative_url }})"{% endif %}></header>
+
+<header class="site-header large-header"{% if cover %} style="background-image: url({{ cover | relative_url }})"{% endif %}>
   <div class="site-header-shield">
+    <a href="{{ '/' | relative_url }}" class="logo-link">
+      <img src="assets/images/logo_white.webp" alt="Logo" class="site-logo">
+    </a>
     <div class="outer">
       <div class="inner">
         <div class="site-header-content">
           <h2 class="site-title">
-            <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+            <a href="{{ '/' | relative_url }}">{{ page.title | default: site.title }}</a>
           </h2>
           {% if site.tagline %}
-            <h5 class="site-tagline">{{ site.tagline }}</h5>
+            <h5 class="site-tagline">{{ page.tagline | default: site.tagline }}</h5>
           {% endif %}
-        </div>
-        {% if site.data.navigation %}
-          <nav class="nav">
-            {% for item in site.data.navigation %}
-              <a class="nav-item {% if page.url == item.url %}active{% endif %}" href="{{ item.url | relative_url }}">
-                {{ item.title }}
-              </a>
-            {% endfor %}
-          </nav>
-        {% endif %}
       </div>
     </div>
   </div>
 </header>
+<script>
+  function toggleMenu() {
+    document.body.classList.toggle('menu-open');
+  }
+
+  function toggleSubmenu(event, button) {
+    event.preventDefault(); // prevent default button or link action
+    const wrapper = button.closest('.nav-item-wrapper');
+    const submenu = wrapper.querySelector('.submenu');
+    const icon = button.querySelector('.icon');
+
+    if (submenu) {
+      submenu.classList.toggle('collapsed');
+      icon.textContent = submenu.classList.contains('collapsed') ? '+' : '−';
+    }
+  }
+</script>

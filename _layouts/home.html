@@ -2,9 +2,17 @@
 layout: default
 ---
 
-<div class="post-feed">
+<!-- Optional: content area for index.md -->
+<div class="home-content">
+  {{ content }}
+</div>
+
+<!-- Optional: content area for index.md 
+ <div class="post-feed">
   {% include post-cards.html %}
 </div>
+-->
+
 
 {% if paginator %}
   <div class="pagination">

@@ -2,6 +2,7 @@
 layout: page
 title: Introduction Days
 tagline: Key Information
+permalink: introduction_days/key_information/
 ---
 
 

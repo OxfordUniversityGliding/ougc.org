@@ -29,18 +29,6 @@ Glider flying can be whatever you make it - scenic local soaring, long cross cou
 
 <div class="feature-section">
   <div class="feature-image">
-    <img src="../assets/images/about_gliding/aerotow.webp" alt="Glider on grass">
-  </div>
-  <div class="feature-text">
-    <p class="feature-label">On aerotow</p>
-    <p class="feature-description">
-      During an aerotow a rope connects the tow plane to a hook in the nose of the glider. The glider pilot releases when the desired altitude is reached.
-    </p>
-  </div>
-</div>
-
-<div class="feature-section">
-  <div class="feature-image">
     <img src="../assets/images/about_gliding/winch.webp" alt="Glider on grass">
   </div>
   <div class="feature-text">

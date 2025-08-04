@@ -17,11 +17,11 @@ tagline: Take Flight Today
 </div>
 
 <div class="home-button-wrapper">
-  <a href="/introduction_days/key_information/" class="big-button">Introduction Day Information</a>
+  <a href="introduction_days/key_information/" class="big-button">Introduction Day Information</a>
 </div>
 
 <div class="home-button-wrapper">
-  <a href="/membership/faqs/" class="big-button">Frequently Asked Questions</a>
+  <a href="membership/faqs/" class="big-button">Frequently Asked Questions</a>
 </div>
 
 
@@ -36,11 +36,11 @@ tagline: Take Flight Today
 
 
 <div class="home-button-wrapper">
-  <a href="/membership/join/" class="big-button">How to Join OUGC</a>
+  <a href="membership/join/" class="big-button">How to Join OUGC</a>
 </div>
 
 <div class="home-button-wrapper">
-  <a href="/news/" class="big-button">Club News</a>
+  <a href="news/" class="big-button">Club News</a>
 </div>
 
 <div class="video-wrapper">
@@ -59,7 +59,7 @@ tagline: Take Flight Today
     <p class="feature-description">
       Find out more about how gliding, and our club works
     </p>
-    <a href="/about_gliding/" class="feature-button">Learn more about gliding</a>
+    <a href="about_gliding/" class="feature-button">Learn more about gliding</a>
   </div>
 </div>
 
@@ -70,7 +70,7 @@ tagline: Take Flight Today
       <p class="feature-description">
       Learn about air-sport at Oxford
       </p>
-      <a href="/competitions/varsity/" class="feature-button">About Competitions</a>
+      <a href="competitions/varsity/" class="feature-button">About Competitions</a>
   </div>
 
   <div class="feature-image">
@@ -87,7 +87,7 @@ tagline: Take Flight Today
     <p class="feature-description">
       Our trips to other UK sites and abroad are the highlights of the year!
     </p>
-    <a href="/trips_training_weeks_expeditions/trips/" class="feature-button"> About our trips</a>
+    <a href="trips_training_weeks_expeditions/trips/" class="feature-button"> About our trips</a>
   </div>
 </div>
 
@@ -98,7 +98,7 @@ tagline: Take Flight Today
       <p class="feature-description">
       Find out more about costs and how to join
       </p>
-      <a href="/competitions/varsity/" class="feature-button">Join us today</a>
+      <a href="competitions/varsity/" class="feature-button">Join us today</a>
   </div>
 
   <div class="feature-image">
@@ -116,7 +116,7 @@ tagline: Take Flight Today
     <p class="feature-description">
       Keep in contact with and donate to OUGC
     </p>
-    <a href="/about_ougc/alumni_1937_club/" class="feature-button"> Keep in touch</a>
+    <a href="about_ougc/alumni_1937_club/" class="feature-button"> Keep in touch</a>
   </div>
 </div>
 
@@ -126,7 +126,7 @@ tagline: Take Flight Today
       <p class="feature-description">
       Core to everything we do, safety is paramount
       </p>
-      <a href="/about_ougc/safety/" class="feature-button">Read More</a>
+      <a href="about_ougc/safety/" class="feature-button">Read More</a>
   </div>
 
   <div class="feature-image">

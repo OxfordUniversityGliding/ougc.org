@@ -3,7 +3,7 @@ layout: home
 title: Oxford University Gliding Club
 tagline: Take Flight Today
 ---
-<div style="text-align: center; font-family: 'Montserrat', sans-serif; font-weight: 700;font-size: 0.8rem">
+<div style="text-align: center; font-family: 'Montserrat', sans-serif; font-weight: 700;font-size: 1rem">
   WE ARE RUNNING INTRO DAYS BEGINNING IN OCTOBER 2025!
 </div>
 

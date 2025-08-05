@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Oxford University Gliding Club
+title: OGC Gliding Club
 tagline: Take Flight Today
 ---
 <div style="text-align: center; font-family: 'Montserrat', sans-serif; font-weight: 700;font-size: 1rem">

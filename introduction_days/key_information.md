@@ -46,9 +46,7 @@ permalink: introduction_days/key_information/
   </main>
 </div>
 
-**2024-2025 INTRO DAY TICKET: £75**  
-
-**Return trip between Oxford and airfield: £15**. 
+**2024-2025 INTRO DAY TICKET: £TBC**  
 
 The cost of your intro day ‘ticket’ does not include [flying fees](membership/fees), which you need to pay by card at the end of your intro day. This is because people do different amounts of flying, depending on the weather, their enjoyment of the flight, and instructor capacity.  
 

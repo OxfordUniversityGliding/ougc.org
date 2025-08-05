@@ -64,7 +64,7 @@ body.menu-open .site-wrapper {
 
 /* === Hamburger === */
 .menu-toggle {
-  color: white;
+  color: #9e9e9e;
   font-size: 28px;
   cursor: pointer;
   position: fixed;

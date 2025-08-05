@@ -1,5 +1,6 @@
 title: Oxford University Gliding Club
-baseurl: "/ougc.org"
+# baseurl: "/ougc.org"
+baseurl: ""
 tagline: Take Flight Today
 description: Oxford University Gliding Club
 cover: assets/images/covers/cover.webp

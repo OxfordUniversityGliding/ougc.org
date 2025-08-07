@@ -466,7 +466,7 @@ body {
 .committee-row .photo{
   flex: 0 0 340px;               /* 340 px wide on desktop */
   max-width: 100%;
-  margin-left: 10rem;
+  margin-left: 0.1rem;
 }
 .committee-row .photo img{
   width: 100%;
@@ -512,7 +512,36 @@ body {
   .committee-row .bio{ max-width: 100%; }
 }
 
-.page-about_ougc-committee .heading--center,
-.page-about_ougc-committee .lead{
-  margin-left: 10rem;   /* move whole block 3 rem right */
+
+
+/* layout wrapper */
+.about-wrapper{
+  display: flex;
+  gap: 3rem;
+}
+
+/* sidebar */
+.ougc-sidebar{
+  flex: 0 0 200px;    /* fixed width */
+  font-family: "Montserrat", sans-serif;
+}
+.ougc-sidebar h2{ font-size: 1.25rem; margin-bottom: 1rem; }
+.ougc-sidebar ul{ list-style: none; padding: 0; margin: 0; }
+.ougc-sidebar li{ margin: .75rem 0; }
+.ougc-sidebar a{
+  font-size: .95rem;
+  text-decoration: none;
+  color: #6c757d;
+  letter-spacing: .05em;
+}
+.ougc-sidebar a.active,
+.ougc-sidebar a:hover{ color: #1a1a1a; }  /* highlight current/hover */
+
+/* main column */
+.about-content{ flex: 1 1 0; }
+
+/* mobile: stack */
+@media (max-width: 640px){
+  .about-wrapper{ flex-direction: column; }
+  .ougc-sidebar{ flex: none; }
 }

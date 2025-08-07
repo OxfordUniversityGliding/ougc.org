@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about_page
 title: Committee
 permalink: /about_ougc/committee/
 committee:
@@ -24,10 +24,10 @@ committee:
 
   - role: Treasurer
     name: Teddy Ong
-    image: assets/images/about_ougc_pages/Treasurer.webp
+    image: assets/images/about_ougc_pages/TeddyImage.webp
     bio: |
-      Dave’s placeholder bio goes here. Mention how the club budget is
-      handled, Dave’s background, or a quote about keeping costs down.
+      I started gliding four years ago during my undergraduate and I'm now doing a DPhil in Physics. I come from Singapore and the sport is not possible in Southeast Asia. In fact, I think the UK is the safest place to learn gliding, so cherish your opportunity here and now!
+
 ---
 
 # OUR COMMITTEE 2024-2025

@@ -2,6 +2,7 @@
 layout: home
 title: Donate
 tagline: " "
+permalink: /donate/
 ---
 
 To donate to OUGC please use the University’s donation page. 

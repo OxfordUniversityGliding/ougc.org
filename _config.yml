@@ -4,6 +4,7 @@ baseurl: ""
 tagline: Take Flight Today
 description: Oxford University Gliding Club
 cover: assets/images/covers/cover.webp
+permalink: pretty
 
 categories_path: /categories/
 tags_path: /tags/

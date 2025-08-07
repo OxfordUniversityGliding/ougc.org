@@ -42,10 +42,13 @@
   <div class="inner">
 
     <div class="site-header-small-content">
-      <h4 class="site-title">
-        <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
-      </h4>
+      <h2 class="site-title">
+        <a href="{{ '/' | relative_url }}">{{ page.title | default: site.title }}</a>
+      </h2>
 
+      {% if site.tagline %}
+        <h5 class="site-tagline">{{ page.tagline | default: site.tagline }}</h5>
+      {% endif %}
     </div>
   </div>
 </header>

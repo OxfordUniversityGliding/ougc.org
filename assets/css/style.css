@@ -424,3 +424,19 @@ body {
   color: #007e78; /* green */
   cursor: default;
 }
+
+/* make the two headings sit one under the other */
+.site-header-small-content{
+  display:flex;
+  flex-direction:column;   /* stack vertically */
+  align-items:center;  /* or center, if you prefer */
+}
+
+/* tidy up spacing */
+.site-header-small-content .site-title{
+  margin:0;
+}
+
+.site-header-small-content .site-tagline{
+  margin:0.1rem 0 0;      /* small gap under the title */
+}

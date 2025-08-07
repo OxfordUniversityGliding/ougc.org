@@ -30,12 +30,9 @@ committee:
 
 ---
 
-# OUR COMMITTEE 2024-2025
+# OUR COMMITTEE 2025-2026
 {: .heading--right }
 
-The Committee are the organising heart of the club.  
-Please don’t hesitate to get in contact …
-{: .lead .text-right }
 
 <div class="committee-stack">
 {% for m in page.committee %}

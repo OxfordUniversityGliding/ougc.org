@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Oxford University Gliding Club OUGC
+title: Oxford University Gliding Club
 tagline: Take Flight Today
 ---
 

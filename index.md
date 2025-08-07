@@ -1,6 +1,10 @@
 ---
 layout: home
+<<<<<<< HEAD
 title: Oxford University Gliding Club
+=======
+title: Oxford University Gliding Club OUGC
+>>>>>>> 16f80be (testing push)
 tagline: Take Flight Today
 ---
 <div style="text-align: center; font-family: 'Montserrat', sans-serif; font-weight: 700;font-size: 1rem">

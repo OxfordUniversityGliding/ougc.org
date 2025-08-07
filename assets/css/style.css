@@ -440,3 +440,79 @@ body {
 .site-header-small-content .site-tagline{
   margin:0.1rem 0 0;      /* small gap under the title */
 }
+
+
+
+/* ─────────── COMMITTEE PAGE ─────────── */
+
+/* centre the whole block and keep plenty of white space left & right */
+.committee-stack{
+  max-width: 1100px;   /* adjust to taste */
+  margin: 0 auto;      /* centres inside the page */
+  padding: 0 2rem;     /* a little gutter on phones */
+}
+
+/* ROW LAYOUT --------------------------------------------------------- */
+.committee-row{
+  display: flex;
+  flex-direction: row;           /* photo left, text right */
+  align-items: center;
+  text-align: center;
+  gap: 3rem;                     /* wider breathing room */
+  margin-bottom: 2rem;
+}
+
+/* fixed-width, larger portrait */
+.committee-row .photo{
+  flex: 0 0 340px;               /* 340 px wide on desktop */
+  max-width: 100%;
+  margin-left: 10rem;
+}
+.committee-row .photo img{
+  width: 100%;
+  height: auto;
+  border-radius: 6px;           /* soft corners like the reference */
+  object-fit: cover;
+}
+
+/* text column -------------------------------------------------------- */
+.committee-row .bio{
+  flex: 1 1 420px;               /* grows, but stops at ~420 px */
+  max-width: 600px;
+}
+
+/* ROLE + NAME line (small caps grey) */
+.role-name{
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 0.90rem;            /* ≈ 12 px */
+  letter-spacing: 0.18em;        /* spaced-out look */
+  font-weight: 600;
+  text-align: center;
+  color: #8c939e;                /* medium-light grey */
+  margin: 0 0 1.75rem;
+  text-transform: uppercase;
+}
+
+/* body copy */
+.committee-row .bio p{
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 0.90rem;           /* ≈ 12 px */
+  color: #3e494b;                
+  line-height: 1.6;
+  margin-bottom: 1.25rem;
+  letter-spacing: 0.02em;
+}
+
+/* MOBILE: stack and centre                                          */
+@media (max-width: 640px){
+  .committee-row{
+    flex-direction: column;
+    text-align: center;
+  }
+  .committee-row .bio{ max-width: 100%; }
+}
+
+.page-about_ougc-committee .heading--center,
+.page-about_ougc-committee .lead{
+  margin-left: 10rem;   /* move whole block 3 rem right */
+}

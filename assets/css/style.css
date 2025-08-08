@@ -484,7 +484,7 @@ body {
 .role-name{
   font-family: "Georgia", "Times New Roman", serif;
   font-size: 1rem;            /* ≈ 12 px */
-  letter-spacing: 0.18em;        /* spaced-out look */
+  letter-spacing: 0.12em;        /* spaced-out look */
   font-weight: 600;
   text-align: center;
   color: #8c939e;                /* medium-light grey */
@@ -507,15 +507,7 @@ body {
     flex-direction: column;
     text-align: center;
   }
-  .committee-row .bio{
-    max-width: 100%;
-    margin-top: 0;            /* ensure no extra offset */
-    padding-top: 0;
-  }
-  .committee-row .photo img{
-    display: block;
-    margin-bottom: 0;
-  }
+  .committee-row .bio{ max-width: 100%; }
 }
 
 
@@ -593,4 +585,52 @@ body {
     margin-left: 0;
     text-align: center;       /* friendlier on phones */
   }
+}
+
+
+/* Pilot stories layout */
+.stories        { display: grid; gap: 3rem; }
+.story          { max-width: 70rem; margin: 0 auto; }
+.story-title    { margin: 0 0 .25rem; font-weight: 700; }
+.story-byline   { margin: 0 0 1rem; color: #8c979a; letter-spacing: .08em; font-size: .8rem; }
+
+/* Image + right-aligned caption, inline with text */
+.story-figure{
+  display: flex;
+  align-items: center;       /* caption vertically centers against image */
+  gap: 2rem;
+  margin: 1.5rem 0 2rem;
+}
+.story-figure img{
+  width: 520px;              /* tweak as you like */
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+}
+.story-caption{
+  flex: 1;                   /* take remaining space on the right */
+  text-align: right;
+  font-size: .8rem;
+  letter-spacing: .2em;      /* spaced-out look */
+  color: #9ca3af;            /* light grey */
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Body text inside stories */
+.story p{
+  font-size: 1.125rem;
+  line-height: 1.6;
+  margin: 0 0 1rem;
+}
+
+/* Mobile tweaks */
+@media (max-width: 640px){
+  .story-figure{
+    flex-direction: column;  /* stack image + caption */
+    gap: .5rem;
+  }
+  .story-caption{ text-align: center; }
+  .story p{ font-size: 1rem; }
 }

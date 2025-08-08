@@ -43,7 +43,7 @@
 
     <div class="site-header-small-content">
       <h2 class="site-title">
-        <a href="{{ '/' | relative_url }}">{{ page.title | default: site.title }}</a>
+        {{ page.title | default: site.title }}</a>
       </h2>
 
       {% if site.tagline %}

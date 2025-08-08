@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: sidebar_page
 title: Introduction Days
 tagline: More Information and What to Expect
 permalink: introduction_days/what_to_expect/
+sidebar_include : "intro_day_sidebar.html"
 ---
 
-<div class="page-layout">
+<!-- <div class="page-layout">
 <aside class="sidebar">
   <ul class="side-nav">
     <li><span class="section-label">Introduction Days</span></li>
@@ -21,9 +22,9 @@ permalink: introduction_days/what_to_expect/
     </li>
   </ul>
 </aside>
-</div>
+</div> -->
 
-# What to Expect on your intro day
+# What to Expect on your Intro Day
 You will arrive at the airfield by 8.15am - 8.45am.  
 
 Then we start getting the gliders ready for the day: qualified people conduct daily inspections on each aircraft and then we all help get them out of the hangar and onto the airfield. Your buddy will tell you about the gliders and how to move them safely.  

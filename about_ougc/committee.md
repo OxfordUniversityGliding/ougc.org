@@ -1,7 +1,8 @@
 ---
-layout: about_page
+layout: sidebar_page
 title: Committee
 permalink: /about_ougc/committee/
+sidebar_include: "about_ougc_sidebar.html"
 committee:
   - role: President
     name: Haixuan Liu

@@ -48,7 +48,7 @@
       <div class="inner">
         <div class="site-header-content">
           <h2 class="site-title">
-            <a href="{{ '/' | relative_url }}">{{ page.title | default: site.title }}</a>
+            {{ page.title | default: site.title }}</a>
           </h2>
           {% if site.tagline %}
             <h5 class="site-tagline">{{ page.tagline | default: site.tagline }}</h5>

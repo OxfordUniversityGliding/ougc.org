@@ -1,7 +1,8 @@
 ---
-layout: about_page
+layout: sidebar_page
 title: History
 permalink: /about_ougc/history/
+sidebar_include: "about_ougc_sidebar.html"
 
 ---
 

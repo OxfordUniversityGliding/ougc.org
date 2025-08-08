@@ -1,11 +1,13 @@
 ---
-layout: page
+layout: sidebar_page
 title: Introduction Days
 tagline: Key Information
 permalink: introduction_days/key_information/
+sidebar_include: "intro_day_sidebar.html"
 ---
 
-
+<!--
+This is the random extra sidebar thingy on the right, have added a sidebar on the left instead
 <div class="page-layout">
 <aside class="sidebar">
   <ul class="side-nav">
@@ -22,6 +24,7 @@ permalink: introduction_days/key_information/
     </li>
   </ul>
 </aside>
+-->
 
   <main class="main-content">
     <h1>About Intro Days</h1>
@@ -44,7 +47,7 @@ permalink: introduction_days/key_information/
       <li>You must be a student enrolled for 2024–2025 at Oxford Uni or Oxford Brookes Uni, OR a staff member working for either University.</li>
     </ol>
   </main>
-</div>
+
 
 **2024-2025 INTRO DAY TICKET: £TBC**  
 

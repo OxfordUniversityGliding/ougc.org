@@ -1,7 +1,8 @@
 ---
-layout: about_page
+layout: sidebar_page
 title: Pilot Stories
 permalink: /about_ougc/pilot_stories/
+sidebar_include: "about_ougc_sidebar.html"
 stories:
   - title: Daisy Makin - first year Physics (mphys)
 
@@ -29,7 +30,7 @@ stories:
         
 ---
 
-# Eeveryone can become exceptional at OUGC
+# Everyone can become exceptional at OUGC
 {: .about-ougc-all-titles}
 
 We’re all normal students, most of whom never had experienced airsport or ever dreamed that they would learn to fly at University.

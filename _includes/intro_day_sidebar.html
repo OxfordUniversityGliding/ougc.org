@@ -1,9 +1,9 @@
 <nav class="ougc-sidebar">
-  <h2>About OUGC</h2>
+  <h2>Introduction Days</h2>
   <ul>
     {%- assign current = page.url | replace:'index.html','' | replace:'//','/' | downcase -%}
 
-    {%- assign current_page = site.data.navigation | where: "title", "About OUGC" | first -%}
+    {%- assign current_page = site.data.navigation | where: "title", "Introduction Days" | first -%}
 
     {%- for child in current_page.children -%}
       {%- assign child_target = child.url | replace:'index.html','' | replace:'//','/' | downcase -%}

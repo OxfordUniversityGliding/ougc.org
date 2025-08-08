@@ -1,8 +1,9 @@
 ---
-layout: default          # inherits header/footer
+layout: default
 ---
+
 <div class="about-wrapper">
-  {% include about_ougc_sidebar.html %}
+  {% include {{ page.sidebar_include}} %}
   <main class="about-content">
     {{ content }}
   </main>

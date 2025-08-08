@@ -470,8 +470,9 @@ body {
 .committee-row .photo img{
   width: 100%;
   height: auto;
-  border-radius: 6px;           /* soft corners like the reference */
+  border-radius: 6px;           
   object-fit: cover;
+  /* THE LEFT MARGIN IS ALREADY 0 */
 }
 
 /* text column -------------------------------------------------------- */
@@ -558,24 +559,24 @@ body {
 }
 
 
-.about-content .committee-title{
+.about-content .about-ougc-all-titles{
   font-size: 1.5rem;
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
   line-height: 1.1;
-  color: #4a4a4a;             /* pick your colour */
+  color: #323232;             /* pick your colour */
   margin-left: 2rem;   /* nudge right by 3rem */
   margin-top: 1rem;
   letter-spacing: .05em;
-  /* text-align is already right via .heading--right */
 }
 
-.about-content .committee-intro{
+.about-content .about-ougc-all-intros{
   font-family: Georgia, serif; /* or your chosen body font */
   font-size: 1rem;
   line-height: 1.6;
   color: #5e5e5e;
   margin-left: 2rem;
+  margin-bottom: 1rem;
   letter-spacing: .02em;
 }
 
@@ -589,9 +590,19 @@ body {
 
 
 /* Pilot stories layout */
-.stories        { display: grid; gap: 3rem; }
-.story          { max-width: 70rem; margin: 0 auto; }
-.story-title    { margin: 0 0 .25rem; font-weight: 700; }
+.stories        { display: grid; gap: 2rem; }
+
+.story          {max-width: 70rem;margin: 0 auto;}
+
+.story-title    {
+  margin: 0 0 .25rem;
+  font-size: 545;
+  font-weight: 545;
+  color: #323232;
+  text-transform: uppercase;
+  margin-left: 1rem;
+}
+
 .story-byline   { margin: 0 0 1rem; color: #8c979a; letter-spacing: .08em; font-size: .8rem; }
 
 /* Image + right-aligned caption, inline with text */
@@ -605,6 +616,7 @@ body {
   width: 520px;              /* tweak as you like */
   max-width: 100%;
   height: auto;
+  margin-left: 1rem;
   border-radius: 12px;
   display: block;
 }
@@ -620,9 +632,12 @@ body {
 
 /* Body text inside stories */
 .story p{
-  font-size: 1.125rem;
+  font-size: 1rem;
+  font-family: Georgia, serif;
   line-height: 1.6;
-  margin: 0 0 1rem;
+  letter-spacing: 0.02rem;
+  margin-left: 1rem;
+  color: #5e5e5e;
 }
 
 /* Mobile tweaks */
@@ -633,4 +648,49 @@ body {
   }
   .story-caption{ text-align: center; }
   .story p{ font-size: 1rem; }
+}
+
+
+.aircraft-list{
+  max-width: 70rem;      /* overall column width */
+  margin: 0 auto;
+  padding: 0 2rem;       /* small gutter */
+  display: grid;
+  gap: 3rem;
+}
+
+.aircraft-item{}
+
+/* thin grey rule above each entry */
+.aircraft-rule{
+  border: 0;
+  height: 1px;
+  background: #d1d5db;   /* light grey */
+  margin: 1.25rem 0 1.75rem;
+}
+
+/* image */
+.aircraft-figure{ margin: 0 0 1.25rem; }
+.aircraft-figure img{
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 0;       /* set to 12px if you want rounded corners */
+}
+
+/* text */
+.aircraft-name{
+  margin: 0 0 .5rem;
+  font-weight: 700;
+}
+.aircraft-body p{
+  font-size: 1.125rem;    /* ≈18px */
+  line-height: 1.6;
+  margin: 0 0 1rem;
+}
+
+/* mobile tweaks */
+@media (max-width: 640px){
+  .aircraft-list{ padding: 0 1rem; gap: 2rem; }
+  .aircraft-body p{ font-size: 1rem; }
 }

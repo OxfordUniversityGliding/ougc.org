@@ -31,11 +31,11 @@ committee:
 ---
 
 # OUR COMMITTEE 2025-2026
-{: .committee-title}
+{: .about-ougc-all-titles}
 
 The Committee are the organising heart of the club.  
 For any general enquiries, please email president@ougc.org
-{: .committee-intro}
+{: .about-ougc-all-intros}
 
 <div class="committee-stack">
 {% for m in page.committee %}

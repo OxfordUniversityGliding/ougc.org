@@ -18,8 +18,8 @@ stories:
         Growing up in Taiwan, I had never heard about gliding nor had I thought that I would be flying one day. My first exposure to gliding was in Paris (where I did my bachelor’s and master’s degrees) in 2015. A friend of mine brought me to his club for an air experience. It wasn’t possible for me to start learning at that time, but since then, I have always wanted to fly.  
           
         At the Freshers’ Fair 2017, just as every other fresher, I signed up to a whole lot of different clubs, including Oxford University Gliding Club. Although I was very interested in gliding, to be honest, I was a bit put off by the cost. I started the first two weeks by trying out other clubs and missed the annual intro evening (which I regret), as well as the sign up to intro days (which happened at the intro evening). After checking the OUGC website, it turned out that gliding was much more affordable than I thought. Just a few days after the intro evening I finally decided to join as a trial member. To my surprise there had been so many people signing up that the first available intro day slot was right at the end of Michaelmas Term! The more I read about the gliding club, the more I wanted to join and start training as soon as possible. So I put my name down for all the waiting lists for intro days and finally joined by the end of October 2017. Moral of the story - stop wishing and start flying!
-    image: assets/images/about_ougc_pages/stories/k8.webp
-    alt: Alice converting to the K8
+    image: assets/images/about_ougc_pages/K13_launching.webp
+    alt: Converting to the K8
     caption: CONVERTING TO THE K8
     # text that continues *after* the image/caption
     text_after: |
@@ -29,11 +29,11 @@ stories:
         
 ---
 
-# Everyone can become exceptional at OUGC
-{: .committee-title}
+# Eeveryone can become exceptional at OUGC
+{: .about-ougc-all-titles}
 
 We’re all normal students, most of whom never had experienced airsport or ever dreamed that they would learn to fly at University.
-{: .committee-intro}
+{: .about-ougc-all-intros}
 
 <div class="stories">
 {% for s in page.stories %}

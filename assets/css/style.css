@@ -694,3 +694,10 @@ body {
   .aircraft-list{ padding: 0 1rem; gap: 2rem; }
   .aircraft-body p{ font-size: 1rem; }
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}

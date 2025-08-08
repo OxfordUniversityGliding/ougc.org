@@ -51,7 +51,7 @@ This is the random extra sidebar thingy on the right, have added a sidebar on th
 
 **2024-2025 INTRO DAY TICKET: £TBC**  
 
-The cost of your intro day ‘ticket’ does not include [flying fees](membership/fees), which you need to pay by card at the end of your intro day. This is because people do different amounts of flying, depending on the weather, their enjoyment of the flight, and instructor capacity.  
+The cost of your intro day ‘ticket’ does not include [flying fees](/membership/fees), which you need to pay by card at the end of your intro day. This is because people do different amounts of flying, depending on the weather, their enjoyment of the flight, and instructor capacity.  
 
 During an intro day, we either go with you to the airfield in a car/taxi or meet you at the gates of RAF Weston-on-the-Green. 
 

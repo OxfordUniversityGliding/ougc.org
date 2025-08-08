@@ -14,7 +14,7 @@
   <body>
     <div class="wrapper">
 
-      {% if page.layout == "default" or page.layout == "home" %}
+      {% if page.layout == "default" or page.layout == "home" or page.layout == "sidebar_default" %}
         {% include header.html %}
       {% else %}
         {% include header-small.html %}

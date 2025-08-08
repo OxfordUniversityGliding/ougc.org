@@ -2,6 +2,7 @@
 layout: home
 title: Oxford University Gliding Club
 tagline: Take Flight Today
+cover: /assets/images/covers/cover.webp
 ---
 
 <div style="text-align: center; font-family: 'Montserrat', sans-serif; font-weight: 700;font-size: 1rem">

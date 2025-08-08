@@ -1,21 +1,21 @@
 ---
-layout: default
-title: Membership Benefits
+layout: sidebar_default
+title: " "
 tagline: " "
 permalink: membership/benefits/
+cover: "/assets/images/membership/membership.jpeg"
+sidebar_include : "membership_sidebar.html"
 ---
-
 
 # MEMBERSHIP BENEFITS
 By joining OUGC you become an affiliate member of Oxford Gliding Club at RAF Weston-on-the-Green for one year (starting from the first month that you fly), and enjoy student or full flying fees. As a student you cannot learn to fly any cheaper than this!
-
 <div class="home-button-wrapper">
     <a href="/membership/fees/" class="big-button">Flying Fees</a>
 </div>
 
-OUGC members can fly gliders from both the [OUGC fleet](/about_ougc/aircraft/) and the [Oxford club fleet](https://www.oxfordgliding.com/the-fleet). Instruction is free - you will be taught how to fly until you reach solo standard (and after that too). There is a syllabus of flight exercises to work through, but once in a while, everyone enjoys a chill flight just to soak up the view.  
+OUGC members can fly gliders from both the [OUGC fleet](/about_ougc/aircraft/) and the [Oxford club fleet](https://www.oxfordgliding.com/club-fleet). Instruction is free - you will be taught how to fly until you reach solo standard (and after that too). There is a syllabus of flight exercises to work through, but once in a while, everyone enjoys a chill flight just to soak up the view.  
 
-<img src="/assets/images/home/home_1.webp" alt="image 1">
+<img src="/assets/images/membership/team.jpeg" alt="team">
 
 You will participate in all aspects of the gliding club, including airfield operations, and aircraft maintenance. No prior experience is required, just a willingness to pitch in, help others, and learn. Driving buggies and using the radios is pretty good fun too!  
 

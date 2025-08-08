@@ -4,7 +4,6 @@ title: Introduction Days
 tagline: Basic Airfield Safety
 permalink: introduction_days/basic_airfield_safety/
 sidebar_include : "intro_day_sidebar.html"
-
 ---
 
 <!-- <div class="page-layout">

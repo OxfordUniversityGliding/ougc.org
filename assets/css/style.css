@@ -443,6 +443,113 @@ body {
 
 
 
+/* ─────────── START: EVERY TITLE'S LAYOUT in ABOUT OUGC Section ─────────── */
+/* main column */
+.about-content{ flex: 1 1 0; }
+
+.about-content .about-committee-titles{
+  font-size: 1.5rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  line-height: 1.1;
+  color: #606060;             /* pick your colour */
+  margin-left: 2rem;   /* nudge right by 3rem */
+  margin-top: 1rem;
+  letter-spacing: .05em;
+}
+
+.about-content .about-pilot-titles{
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.1;
+  color: #4a4a4a;
+  margin-top: 1.5rem;
+  letter-spacing: .04rem;
+  text-transform: uppercase;
+}
+
+.about-content .about-aircraft-titles{
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1;
+  color: #4a4a4a;
+  margin-top: 1.5rem;
+  margin-left: 2rem;
+  letter-spacing: .04rem;
+  text-transform: uppercase;
+}
+
+.about-content .about-history-titles{
+  font-size: 2rem;
+  font-family: "Georgia", "Times New Roman", serif;
+  font-weight: 500;
+  line-height: 1.1;
+  color: #424242;             /* pick your colour */
+  margin-top: 1.5rem;
+  letter-spacing: .02rem;
+}
+
+.about-content .about-alumni-titles{
+  font-size: 2rem;
+  font-family: "Georgia", "Times New Roman", serif;
+  font-weight: 500;
+  line-height: 1.1;
+  color: #282828;             /* pick your colour */
+  margin-top: 1.5rem;
+}
+
+.about-content .about-events-titles{
+  font-size: 1.5rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  line-height: 1.1;
+  color: #606060; 
+  margin-top: 1.5rem;
+  letter-spacing: .05em;
+}
+
+
+.about-content .about-documents-titles{
+  font-size: 1.1rem;
+  font-weight: 500;
+  line-height: 1.1;
+  color: #303030;             /* pick your colour */
+  margin-top: 1.5rem;
+  letter-spacing: .05em;
+}
+
+/* Intro text below title formatted below */
+/* Only this one needs to be shifted to the right, which is why it's separate */
+.about-content .about-committee-intros{
+  font-family: Georgia, serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #5e5e5e;
+  margin-left: 2rem;
+  margin-bottom: 1rem;
+  letter-spacing: .02em;
+}
+
+.about-content .about-all-intros{
+  font-family: Georgia, serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #5e5e5e;
+  margin-bottom: 1rem;
+  letter-spacing: .02em;
+}
+
+@media (max-width: 640px){
+  .about-content .committee-title,
+  .about-content .committee-intro{
+    margin-left: 0;
+    text-align: center;       /* friendlier on phones */
+  }
+}
+/* ─────────── END: EVERY TITLE'S LAYOUT in ABOUT OUGC Section ─────────── */
+
+
+
 /* ─────────── COMMITTEE PAGE ─────────── */
 
 /* centre the whole block and keep plenty of white space left & right */
@@ -549,43 +656,10 @@ body {
 .ougc-sidebar a:focus,
 .ougc-sidebar a:hover{ color: #1a1a1a; }  /* highlight current/hover */
 
-/* main column */
-.about-content{ flex: 1 1 0; }
-
 /* mobile: stack */
 @media (max-width: 640px){
   .about-wrapper{ flex-direction: column; }
   .ougc-sidebar{ flex: none; }
-}
-
-
-.about-content .about-ougc-all-titles{
-  font-size: 1.5rem;
-  font-family: "Montserrat", sans-serif;
-  font-weight: 600;
-  line-height: 1.1;
-  color: #323232;             /* pick your colour */
-  margin-left: 2rem;   /* nudge right by 3rem */
-  margin-top: 1rem;
-  letter-spacing: .05em;
-}
-
-.about-content .about-ougc-all-intros{
-  font-family: Georgia, serif; /* or your chosen body font */
-  font-size: 1rem;
-  line-height: 1.6;
-  color: #5e5e5e;
-  margin-left: 2rem;
-  margin-bottom: 1rem;
-  letter-spacing: .02em;
-}
-
-@media (max-width: 640px){
-  .about-content .committee-title,
-  .about-content .committee-intro{
-    margin-left: 0;
-    text-align: center;       /* friendlier on phones */
-  }
 }
 
 
@@ -595,12 +669,12 @@ body {
 .story          {max-width: 70rem;margin: 0 auto;}
 
 .story-title    {
-  margin: 0 0 .25rem;
-  font-size: 545;
-  font-weight: 545;
-  color: #323232;
+  font-family: "Segoe UI", Arial, sans-serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #434343;
   text-transform: uppercase;
-  margin-left: 1rem;
+  letter-spacing: .04rem;
 }
 
 .story-byline   { margin: 0 0 1rem; color: #8c979a; letter-spacing: .08em; font-size: .8rem; }
@@ -636,7 +710,6 @@ body {
   font-family: Georgia, serif;
   line-height: 1.6;
   letter-spacing: 0.02rem;
-  margin-left: 1rem;
   color: #5e5e5e;
 }
 

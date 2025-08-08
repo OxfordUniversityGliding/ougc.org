@@ -507,7 +507,15 @@ body {
     flex-direction: column;
     text-align: center;
   }
-  .committee-row .bio{ max-width: 100%; }
+  .committee-row .bio{
+    max-width: 100%;
+    margin-top: 0;            /* ensure no extra offset */
+    padding-top: 0;
+  }
+  .committee-row .photo img{
+    display: block;
+    margin-bottom: 0;
+  }
 }
 
 
@@ -555,4 +563,34 @@ body {
 @media (max-width: 640px){
   .about-wrapper{ flex-direction: column; }
   .ougc-sidebar{ flex: none; }
+}
+
+
+.about-content .committee-title{
+  font-size: 1.5rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  line-height: 1.1;
+  color: #4a4a4a;             /* pick your colour */
+  margin-left: 2rem;   /* nudge right by 3rem */
+  margin-top: 1rem;
+  letter-spacing: .05em;
+  /* text-align is already right via .heading--right */
+}
+
+.about-content .committee-intro{
+  font-family: Georgia, serif; /* or your chosen body font */
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #5e5e5e;
+  margin-left: 2rem;
+  letter-spacing: .02em;
+}
+
+@media (max-width: 640px){
+  .about-content .committee-title,
+  .about-content .committee-intro{
+    margin-left: 0;
+    text-align: center;       /* friendlier on phones */
+  }
 }

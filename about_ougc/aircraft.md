@@ -37,10 +37,10 @@ aircraft:
 ---
 
 # Our Aircraft
-{: .about-ougc-all-titles}
+{: .about-aircraft-titles}
 
 OUGC owns two aircraft, a ASK21 two seater trainer, and a Astir CS. By being a member of OUGC you automatically are also made a member of our host club, Oxford Gliding Club, with access to their large fleet of aircraft. 
-{: .about-ougc-all-intros}
+{: .about-committee-intros}
 
 <div class="aircraft-list">
 {% for a in page.aircraft %}

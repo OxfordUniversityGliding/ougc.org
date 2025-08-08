@@ -2,7 +2,7 @@
 layout: sidebar_default
 permalink: trips_training_weeks_expeditions/places/
 sidebar_include: "trips_expedition_sidebar.html"
-image: /assets/images/trips_training_weeks_expeditions/placescover.webp
+cover: /assets/images/trips_training_weeks_expeditions/placescover.webp
 
 ---
 

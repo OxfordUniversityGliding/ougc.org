@@ -34,9 +34,12 @@
 <div id="site-wrapper" class="site-wrapper">
   <!-- your site’s content here -->
 
-{% assign cover = page.cover %}
+{% assign cover = site.cover %}
 {% if page.image %}
   {% assign cover = page.image %}
+{% endif %}
+{% if page.cover %}
+  {% assign cover = page.cover%}
 {% endif %}
 
 <header class="site-header large-header"{% if cover %} style="background-image: url({{ cover | relative_url }})"{% endif %}>
@@ -48,10 +51,10 @@
       <div class="inner">
         <div class="site-header-content">
           <h2 class="site-title">
-            {{ page.title | default: site.title }}</a>
+            <a>{{ page.title}}</a>
           </h2>
           {% if site.tagline %}
-            <h5 class="site-tagline">{{ page.tagline | default: site.tagline }}</h5>
+            <h5 class="site-tagline">{{ page.tagline }}</h5>
           {% endif %}
       </div>
     </div>

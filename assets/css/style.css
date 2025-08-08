@@ -3,8 +3,8 @@
 .outer {
   background-size: cover;
   background-position: center;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 75px;
+  padding-bottom: 75px;
   position: relative;
   z-index: 1;
 }
@@ -16,6 +16,12 @@
   align-items: center;
 }
 
+.site-tagline {
+  font-style: italic;
+  font-weight: 600;
+}
+
+
 /* Header content should not constrain submenu */
 .site-header-content {
   text-align: center;
@@ -23,6 +29,8 @@
   z-index: 2;  /* so it appears above background */
   margin-top: 20px;
   padding-top: 100px; /* space for fixed header */
+  font-size: 1.8rem;                      /* adjust size */
+  font-weight: 550;   
 }
 
 .site-header.outer {
@@ -32,7 +40,8 @@
   align-items: center;       /* Optional: center items vertically */
   padding: 1rem 2rem;        /* Add spacing if needed */
   flex-wrap: wrap;           /* Allow multiple lines if needed */
-  min-height: 160px;
+  min-height: 200px;
+
 }
 /* === Sidebar basics === */
 .sidebar {

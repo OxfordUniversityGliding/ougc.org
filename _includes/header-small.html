@@ -35,7 +35,14 @@
   <!-- your site’s content here -->
 
 
-<header class="site-header outer">
+{% if page.cover %}
+  {% assign cover = page.cover %}
+{% endif %}
+{% if page.image %}
+  {% assign cover = page.imager%}
+{% endif %}
+
+<header class="site-header outer" {% if cover %} style="background-image: url({{ cover | relative_url }})"{% endif %}>
   <a href="{{ '/' | relative_url }}" class="logo-link">
       <img src="/assets/images/logo_white.webp" alt="Logo" class="site-logo">
   </a>
@@ -43,15 +50,18 @@
 
     <div class="site-header-small-content">
       <h2 class="site-title">
-        {{ page.title | default: site.title }}</a>
+        {{ page.title}}</a>
       </h2>
 
       {% if site.tagline %}
-        <h5 class="site-tagline">{{ page.tagline | default: site.tagline }}</h5>
+        <h5 class="site-tagline">{{ page.tagline }}</h5>
       {% endif %}
     </div>
   </div>
 </header>
+
+
+
 
 <script>
   function toggleMenu() {

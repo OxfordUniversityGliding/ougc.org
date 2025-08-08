@@ -458,21 +458,21 @@ body {
   flex-direction: row;           /* photo left, text right */
   align-items: center;
   text-align: center;
-  gap: 3rem;                     /* wider breathing room */
-  margin-bottom: 2rem;
+  gap: 2rem;                     /* wider breathing room */
+  margin-bottom: 1rem;
 }
 
 /* fixed-width, larger portrait */
 .committee-row .photo{
   flex: 0 0 340px;               /* 340 px wide on desktop */
   max-width: 100%;
-  margin-left: 0.1rem;
 }
 .committee-row .photo img{
   width: 100%;
   height: auto;
-  border-radius: 6px;           /* soft corners like the reference */
+  border-radius: 6px;           
   object-fit: cover;
+  /* THE LEFT MARGIN IS ALREADY 0 */
 }
 
 /* text column -------------------------------------------------------- */
@@ -484,8 +484,8 @@ body {
 /* ROLE + NAME line (small caps grey) */
 .role-name{
   font-family: "Georgia", "Times New Roman", serif;
-  font-size: 0.90rem;            /* ≈ 12 px */
-  letter-spacing: 0.18em;        /* spaced-out look */
+  font-size: 1rem;            /* ≈ 12 px */
+  letter-spacing: 0.12em;        /* spaced-out look */
   font-weight: 600;
   text-align: center;
   color: #8c939e;                /* medium-light grey */
@@ -496,10 +496,9 @@ body {
 /* body copy */
 .committee-row .bio p{
   font-family: "Georgia", "Times New Roman", serif;
-  font-size: 0.90rem;           /* ≈ 12 px */
+  font-size: 1rem;           /* ≈ 12 px */
   color: #3e494b;                
   line-height: 1.6;
-  margin-bottom: 1.25rem;
   letter-spacing: 0.02em;
 }
 
@@ -525,16 +524,29 @@ body {
   flex: 0 0 200px;    /* fixed width */
   font-family: "Montserrat", sans-serif;
 }
-.ougc-sidebar h2{ font-size: 1.25rem; margin-bottom: 1rem; }
+.ougc-sidebar h2{
+  font-size: 1.25rem;
+  font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+  font-weight: 400;
+  color: #00746b;
+  margin-bottom: 0.5rem;
+  letter-spacing: 0.02em;
+}
+
 .ougc-sidebar ul{ list-style: none; padding: 0; margin: 0; }
-.ougc-sidebar li{ margin: .75rem 0; }
+
+.ougc-sidebar li{
+  margin: 0.5rem 0;
+}
+
 .ougc-sidebar a{
   font-size: .95rem;
   text-decoration: none;
-  color: #6c757d;
+  color: #a3a3a3;
   letter-spacing: .05em;
 }
 .ougc-sidebar a.active,
+.ougc-sidebar a:focus,
 .ougc-sidebar a:hover{ color: #1a1a1a; }  /* highlight current/hover */
 
 /* main column */
@@ -544,4 +556,141 @@ body {
 @media (max-width: 640px){
   .about-wrapper{ flex-direction: column; }
   .ougc-sidebar{ flex: none; }
+}
+
+
+.about-content .about-ougc-all-titles{
+  font-size: 1.5rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  line-height: 1.1;
+  color: #323232;             /* pick your colour */
+  margin-left: 2rem;   /* nudge right by 3rem */
+  margin-top: 1rem;
+  letter-spacing: .05em;
+}
+
+.about-content .about-ougc-all-intros{
+  font-family: Georgia, serif; /* or your chosen body font */
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #5e5e5e;
+  margin-left: 2rem;
+  margin-bottom: 1rem;
+  letter-spacing: .02em;
+}
+
+@media (max-width: 640px){
+  .about-content .committee-title,
+  .about-content .committee-intro{
+    margin-left: 0;
+    text-align: center;       /* friendlier on phones */
+  }
+}
+
+
+/* Pilot stories layout */
+.stories        { display: grid; gap: 2rem; }
+
+.story          {max-width: 70rem;margin: 0 auto;}
+
+.story-title    {
+  margin: 0 0 .25rem;
+  font-size: 545;
+  font-weight: 545;
+  color: #323232;
+  text-transform: uppercase;
+  margin-left: 1rem;
+}
+
+.story-byline   { margin: 0 0 1rem; color: #8c979a; letter-spacing: .08em; font-size: .8rem; }
+
+/* Image + right-aligned caption, inline with text */
+.story-figure{
+  display: flex;
+  align-items: center;       /* caption vertically centers against image */
+  gap: 2rem;
+  margin: 1.5rem 0 2rem;
+}
+.story-figure img{
+  width: 520px;              /* tweak as you like */
+  max-width: 100%;
+  height: auto;
+  margin-left: 1rem;
+  border-radius: 12px;
+  display: block;
+}
+.story-caption{
+  flex: 1;                   /* take remaining space on the right */
+  text-align: right;
+  font-size: .8rem;
+  letter-spacing: .2em;      /* spaced-out look */
+  color: #9ca3af;            /* light grey */
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Body text inside stories */
+.story p{
+  font-size: 1rem;
+  font-family: Georgia, serif;
+  line-height: 1.6;
+  letter-spacing: 0.02rem;
+  margin-left: 1rem;
+  color: #5e5e5e;
+}
+
+/* Mobile tweaks */
+@media (max-width: 640px){
+  .story-figure{
+    flex-direction: column;  /* stack image + caption */
+    gap: .5rem;
+  }
+  .story-caption{ text-align: center; }
+  .story p{ font-size: 1rem; }
+}
+
+
+.aircraft-list{
+  max-width: 70rem;      /* overall column width */
+  margin: 0 auto;
+  padding: 0 2rem;       /* small gutter */
+  display: grid;
+  gap: 3rem;
+}
+
+.aircraft-item{}
+
+/* thin grey rule above each entry */
+.aircraft-rule{
+  border: 0;
+  height: 1px;
+  background: #d1d5db;   /* light grey */
+  margin: 1.25rem 0 1.75rem;
+}
+
+/* image */
+.aircraft-figure{ margin: 0 0 1.25rem; }
+.aircraft-figure img{
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 0;       /* set to 12px if you want rounded corners */
+}
+
+/* text */
+.aircraft-name{
+  margin: 0 0 .5rem;
+  font-weight: 700;
+}
+.aircraft-body p{
+  font-size: 1.125rem;    /* ≈18px */
+  line-height: 1.6;
+  margin: 0 0 1rem;
+}
+
+/* mobile tweaks */
+@media (max-width: 640px){
+  .aircraft-list{ padding: 0 1rem; gap: 2rem; }
+  .aircraft-body p{ font-size: 1rem; }
 }

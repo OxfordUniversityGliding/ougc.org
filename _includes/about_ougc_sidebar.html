@@ -1,14 +1,18 @@
 <nav class="ougc-sidebar">
   <h2>About OUGC</h2>
   <ul>
-    {% for item in site.data.about_ougc_nav %}
-      {% assign is_current = page.url == item.url %}
+    {%- assign current = page.url | replace:'index.html','' | replace:'//','/' | downcase -%}
+
+    {%- for item in site.data.about_ougc_nav -%}
+      {%- assign target_raw = item.url | default: '' -%}
+      {%- assign target = target_raw | replace:'index.html','' | replace:'//','/' | downcase -%}
+
       <li>
-        <a href="{{ item.url | relative_url }}"
-           class="{% if is_current %}active{% endif %}">
+        <a href="{{ target | relative_url }}"
+           class="{% if current == target %}active{% endif %}">
           {{ item.title }}
         </a>
       </li>
-    {% endfor %}
+    {%- endfor -%}
   </ul>
 </nav>

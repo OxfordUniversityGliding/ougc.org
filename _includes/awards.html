@@ -1,0 +1,51 @@
+{% assign awards = site.data.awards | sort: "year" | reverse %}
+{% for block in awards %}
+  <h2 class="awards-year">{{ block.year }}</h2>
+
+  <div class="awards-grid">
+    <div class="awards-col">
+      <h3>Solo</h3>
+      {% if block.solo and block.solo.size > 0 %}
+        <ul class="awards-list">
+          {% for name in block.solo %}<li>{{ name }}</li>{% endfor %}
+        </ul>
+      {% else %}
+        <p class="awards-empty">—</p>
+      {% endif %}
+    </div>
+
+    <div class="awards-col">
+      <h3>Badges</h3>
+      {% if block.badges and block.badges.size > 0 %}
+        <ul class="awards-list">
+          {% for item in block.badges %}<li>{{ item }}</li>{% endfor %}
+        </ul>
+      {% else %}
+        <p class="awards-empty">—</p>
+      {% endif %}
+    </div>
+
+    <div class="awards-col">
+      <h3>Club Awards</h3>
+      {% if block.club_awards %}
+        <ul class="awards-list">
+        {% if block.club_awards %}
+  <ul class="awards-list">
+    {% for title in block.club_awards %}
+      <li>
+        {{ title }}<br>
+        {{ block.club_awards[title] }}
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p class="awards-empty">—</p>
+{% endif %}
+
+        </ul>
+      {% else %}
+        <p class="awards-empty">—</p>
+      {% endif %}
+    </div>
+  </div>
+{% endfor %}

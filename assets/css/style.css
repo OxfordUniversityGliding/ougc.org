@@ -783,3 +783,23 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+.awards-year {
+  font-size: 2.25rem; font-weight: 700; letter-spacing: .02em; margin: 1.5rem 0 .75rem;
+}
+.awards-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0,1fr));
+  gap: 2.5rem 3rem;
+  align-items: start;
+  margin-bottom: 3.5rem;
+}
+.awards-col h3 {
+  font-size: 1.25rem; font-weight: 700; margin: .5rem 0 1rem;
+}
+.awards-list { list-style: none; padding: 0; margin: 0; }
+.awards-list li { margin: .4rem 0; line-height: 1.5; }
+.awards-empty { opacity: .5; }
+@media (max-width: 900px) {
+  .awards-grid { grid-template-columns: 1fr; gap: 1.25rem; }
+}

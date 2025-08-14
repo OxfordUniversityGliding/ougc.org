@@ -1,8 +1,9 @@
 ---
 layout: sidebar_page
-title: History
+title: 
 permalink: /about_ougc/history/
 sidebar_include: "about_ougc_sidebar.html"
+cover: "/assets/images/about_ougc_pages/OldPhoto3.jpg"
 ---
 
 

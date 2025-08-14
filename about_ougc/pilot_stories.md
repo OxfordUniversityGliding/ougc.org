@@ -1,8 +1,10 @@
 ---
 layout: sidebar_page
-title: Pilot Stories
+title: 
 permalink: /about_ougc/pilot_stories/
 sidebar_include: "about_ougc_sidebar.html"
+cover: "/assets/images/covers/pilot_stories_cover.webp"
+
 stories:
   - title: Daisy Makin - 1st year Physics (MPhys)
 

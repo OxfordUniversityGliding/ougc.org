@@ -49,7 +49,7 @@ This is the random extra sidebar thingy on the right, have added a sidebar on th
   </main>
 
 
-**2024-2025 INTRO DAY TICKET: £TBC**  
+**2025-2026 INTRO DAY TICKET: £105**  
 
 The cost of your intro day ‘ticket’ does not include [flying fees](/membership/fees), which you need to pay by card at the end of your intro day. This is because people do different amounts of flying, depending on the weather, their enjoyment of the flight, and instructor capacity.  
 

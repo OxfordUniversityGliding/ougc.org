@@ -13,7 +13,7 @@ Gliding is the least expensive form of airsport - because everyone volunteers, f
 Cost of gliding = membership fee (annual) + flying fees (weekly)
 
 ## Membership FEES 2025-2026
-A trial membership with OUGC costs **£TBC**. After the first day (‘intro day’), this can be upgraded to a full membership by just paying the difference.
+A trial membership with OUGC costs **105**. After the first day (‘intro day’), this can be upgraded to a full membership by just paying the difference.
 
 **A year’s student membership costs £230.**. 
 

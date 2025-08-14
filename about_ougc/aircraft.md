@@ -1,8 +1,9 @@
 ---
 layout: sidebar_page
-title: Aircraft
+title: 
 permalink: /about_ougc/aircraft/
 sidebar_include: "about_ougc_sidebar.html"
+cover: "/assets/images/home/home_7.webp"
 aircraft:
   - name: ASK 21 (ESB)
     image: assets/images/about_ougc_pages/ESB.webp
@@ -29,11 +30,11 @@ aircraft:
 
         1x DG500 advanced cross-country two seater trainer 
 
-        1x T21 vintage open-cockpit (!!!) two seater  
+        1x Slingsby T.21 vintage wooden open-cockpit (!!!) two seater  
 
-        1x ASK8 (basic single seater, often pilot’s first single seater aircraft)  
+        1x Schleicher K 8 vintage wooden single seater
 
-        3x Astir 
+        3x Astir (basic single seater, often pilot’s first single seater aircraft)  
 ---
 
 # Our Aircraft

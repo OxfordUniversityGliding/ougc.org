@@ -472,7 +472,7 @@ body {
   font-weight: 400;
   line-height: 1.1;
   color: #4a4a4a;
-  margin-top: 1.5rem;
+  margin-top: 1rem;
   letter-spacing: .04rem;
   text-transform: uppercase;
 }
@@ -715,8 +715,8 @@ body {
 
 /* Body text inside stories */
 .story p{
-  font-size: 1rem;
-  font-family: Georgia, serif;
+  font-family: "DejaVu Serif", serif;
+  font-size: 1.05rem;
   line-height: 1.6;
   letter-spacing: 0.02rem;
   color: #5e5e5e;
@@ -732,16 +732,17 @@ body {
   .story p{ font-size: 1rem; }
 }
 
+/* ─────────── AIRCRAFT PAGE ─────────── */
 
 .aircraft-list{
+  font-family: Georgia, serif;
   max-width: 70rem;      /* overall column width */
   margin: 0 auto;
   padding: 0 2rem;       /* small gutter */
   display: grid;
+  color: #5e5e5e;
   gap: 3rem;
 }
-
-.aircraft-item{}
 
 /* thin grey rule above each entry */
 .aircraft-rule{
@@ -751,7 +752,6 @@ body {
   margin: 1.25rem 0 1.75rem;
 }
 
-/* image */
 .aircraft-figure{ margin: 0 0 1.25rem; }
 .aircraft-figure img{
   width: 100%;
@@ -760,13 +760,14 @@ body {
   border-radius: 0;       /* set to 12px if you want rounded corners */
 }
 
-/* text */
 .aircraft-name{
   margin: 0 0 .5rem;
   font-weight: 700;
 }
 .aircraft-body p{
-  font-size: 1.125rem;    /* ≈18px */
+  font-family: Georgia, serif;
+  font-size: 1rem;
+  letter-spacing: .04rem;
   line-height: 1.6;
   margin: 0 0 1rem;
 }
@@ -776,6 +777,74 @@ body {
   .aircraft-list{ padding: 0 1rem; gap: 2rem; }
   .aircraft-body p{ font-size: 1rem; }
 }
+
+/* ─────────── EVENTS PAGE ─────────── */
+
+.events-list{
+  max-width: 70rem;
+  margin: 0 auto;
+  padding: 0 2rem;
+  display: grid;
+  gap: 4rem;
+}
+
+/* one row (image + text) */
+.event-row{
+  display: flex;
+  align-items: center;      /* vertical centering like the reference */
+  gap: 3rem;
+}
+.event-row.right{           /* image on the RIGHT */
+  flex-direction: row-reverse;
+}
+
+/* image block */
+.event-media{ flex: 0 0 520px; max-width: 50%; }
+.event-media img{
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 0;         /* change to 12px if you want rounded corners */
+}
+
+/* text block */
+.event-copy{
+  font-family: "DejaVu Serif", serif;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: #4a4a4a;
+  max-width: 20rem;
+  letter-spacing: .02em;
+  text-align: center;       /* centered paragraph like your screenshot */
+}
+
+.event-title{
+  color: #9ca3af;           /* light grey */
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;   /* spaced-out caps */
+  margin: 0 0 1rem;
+}
+
+.event-copy p{
+  font-family: "DejaVu Serif", serif;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  margin: 0 0 1rem;
+  letter-spacing: .02em;
+}
+
+/* mobile */
+@media (max-width: 640px){
+  .events-list{ padding: 0 1rem; gap: 2.5rem; }
+  .event-row{
+    flex-direction: column;   /* stack */
+    gap: 1rem;
+  }
+  .event-media{ flex: none; }
+  .event-copy p{ font-size: 1rem; }
+}
+
 
 img {
   max-width: 100%;

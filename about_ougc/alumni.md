@@ -1,6 +1,6 @@
 ---
 layout: sidebar_page
-title: Alumni
+title:
 permalink: /about_ougc/alumni_1937_club/
 sidebar_include: "about_ougc_sidebar.html"
 ---

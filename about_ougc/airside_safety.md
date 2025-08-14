@@ -18,3 +18,8 @@ Home flying operations are based at RAF Weston-on-the-Green with Oxford Gliding 
 {: .about-all-intros}
 Our 2024-25 Risk Assessment and Club Safety Policy can be found [here](https://caper-chihuahua-zr7h.squarespace.com/s/Gliding-Club-risk-assessment-2024-2025docx.pdf) and [here](https://www.ougc.org/s/Gliding-Club-Safety-Policy-2024-2025docx.pdf) respectively.
 {: .about-all-intros}
+
+
+<div class="video-wrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/8S-J1lAQIrY?si=QvM2y68NcszOUNrf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>

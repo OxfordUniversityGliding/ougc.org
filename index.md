@@ -10,20 +10,20 @@ cover: /assets/images/covers/cover.webp
 </div>
 
 <div class="image-grid">
-  <img src="assets/images/home/home_1.webp" alt="image 1">
-  <img src="assets/images/home/home_2.webp" alt="image 2">
-  <img src="assets/images/home/home_3.webp" alt="image 3">
-  <img src="assets/images/home/home_4.jpeg" alt="image 4">
-  <img src="assets/images/home/home_5.jpeg" alt="image 5">
-  <img src="assets/images/home/home_6.jpeg" alt="image 6">
+  <img src="/assets/images/home/home_1.webp" alt="image 1">
+  <img src="/assets/images/home/home_2.webp" alt="image 2">
+  <img src="/assets/images/home/home_3.webp" alt="image 3">
+  <img src="/assets/images/home/home_4.jpeg" alt="image 4">
+  <img src="/assets/images/home/home_5.jpeg" alt="image 5">
+  <img src="/assets/images/home/home_6.jpeg" alt="image 6">
 </div>
 
 <div class="home-button-wrapper">
-  <a href="introduction_days/key_information/" class="big-button">Introduction Day Information</a>
+  <a href="/introduction_days/key_information/" class="big-button">Introduction Day Information</a>
 </div>
 
 <div class="home-button-wrapper">
-  <a href="membership/faqs/" class="big-button">Frequently Asked Questions</a>
+  <a href="/membership/faqs/" class="big-button">Frequently Asked Questions</a>
 </div>
 
 
@@ -38,11 +38,7 @@ cover: /assets/images/covers/cover.webp
 
 
 <div class="home-button-wrapper">
-  <a href="membership/join/" class="big-button">How to Join OUGC</a>
-</div>
-
-<div class="home-button-wrapper">
-  <a href="news/" class="big-button">Club News</a>
+  <a href="/membership/join/" class="big-button">How to Join OUGC</a>
 </div>
 
 <div class="video-wrapper">
@@ -54,14 +50,14 @@ cover: /assets/images/covers/cover.webp
 
 <div class="feature-section">
   <div class="feature-image">
-    <img src="assets/images/home/home_7.webp" alt="Glider on grass">
+    <img src="/assets/images/home/home_7.webp" alt="Glider on grass">
   </div>
   <div class="feature-text">
     <p class="feature-label">About</p>
     <p class="feature-description">
       Find out more about how gliding, and our club works
     </p>
-    <a href="about_gliding/" class="feature-button">Learn more about gliding</a>
+    <a href="/about_gliding/" class="feature-button">Learn more about gliding</a>
   </div>
 </div>
 
@@ -72,24 +68,24 @@ cover: /assets/images/covers/cover.webp
       <p class="feature-description">
       Learn about air-sport at Oxford
       </p>
-      <a href="competitions/varsity/" class="feature-button">About Competitions</a>
+      <a href="/competitions/varsity/" class="feature-button">About Competitions</a>
   </div>
 
   <div class="feature-image">
-      <img src="assets/images/home/home_8.webp" alt="Glider on grass">
+      <img src="/assets/images/home/home_8.webp" alt="Glider on grass">
   </div>
 </div>
 
 <div class="feature-section">
   <div class="feature-image">
-    <img src="assets/images/home/home_9.webp" alt="Glider on grass">
+    <img src="/assets/images/home/home_9.webp" alt="Glider on grass">
   </div>
   <div class="feature-text">
     <p class="feature-label">Expeditions</p>
     <p class="feature-description">
       Our trips to other UK sites and abroad are the highlights of the year!
     </p>
-    <a href="trips_training_weeks_expeditions/trips/" class="feature-button"> About our trips</a>
+    <a href="/trips_training_weeks_expeditions/trips/" class="feature-button"> About our trips</a>
   </div>
 </div>
 
@@ -100,25 +96,25 @@ cover: /assets/images/covers/cover.webp
       <p class="feature-description">
       Find out more about costs and how to join
       </p>
-      <a href="competitions/varsity/" class="feature-button">Join us today</a>
+      <a href="/competitions/varsity/" class="feature-button">Join us today</a>
   </div>
 
   <div class="feature-image">
-      <img src="assets/images/home/home_10.webp" alt="Glider on grass">
+      <img src="/assets/images/home/home_10.webp" alt="Glider on grass">
   </div>
 </div>
 
 
 <div class="feature-section">
   <div class="feature-image">
-    <img src="assets/images/home/home_11.webp" alt="Glider on grass">
+    <img src="/assets/images/home/home_11.webp" alt="Glider on grass">
   </div>
   <div class="feature-text">
     <p class="feature-label">Alumni</p>
     <p class="feature-description">
       Keep in contact with and donate to OUGC
     </p>
-    <a href="about_ougc/alumni_1937_club/" class="feature-button"> Keep in touch</a>
+    <a href="/about_ougc/alumni_1937_club/" class="feature-button"> Keep in touch</a>
   </div>
 </div>
 
@@ -128,11 +124,11 @@ cover: /assets/images/covers/cover.webp
       <p class="feature-description">
       Core to everything we do, safety is paramount
       </p>
-      <a href="about_ougc/safety/" class="feature-button">Read More</a>
+      <a href="/about_ougc/airside_safety/" class="feature-button">Read More</a>
   </div>
 
   <div class="feature-image">
-      <img src="assets/images/home/home_12.webp" alt="Glider on grass">
+      <img src="/assets/images/home/home_12.webp" alt="Glider on grass">
   </div>
 </div>
 

@@ -1,6 +1,6 @@
 ---
 layout: sidebar_page
-title: 
+title: " "
 permalink: /about_ougc/committee/
 sidebar_include: "about_ougc_sidebar.html"
 cover: "/assets/images/about_ougc_pages/K13_launching.webp"

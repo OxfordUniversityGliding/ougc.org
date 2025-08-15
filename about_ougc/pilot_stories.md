@@ -1,6 +1,6 @@
 ---
 layout: sidebar_page
-title: 
+title: " "
 permalink: /about_ougc/pilot_stories/
 sidebar_include: "about_ougc_sidebar.html"
 cover: "/assets/images/covers/pilot_stories_cover.webp"

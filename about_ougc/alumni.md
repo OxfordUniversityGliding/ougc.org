@@ -1,8 +1,9 @@
 ---
 layout: sidebar_page
-title:
+title: " "
 permalink: /about_ougc/alumni_1937_club/
 sidebar_include: "about_ougc_sidebar.html"
+cover: "/assets/images/about_ougc_pages/Bicester.webp"
 ---
 
 # Introducing ‘The 1937 Club’

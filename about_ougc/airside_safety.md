@@ -16,7 +16,7 @@ All operations occur according to British Gliding Association guidelines. Our ai
 {: .about-all-intros}
 Home flying operations are based at RAF Weston-on-the-Green with Oxford Gliding Club (our host club), and as such are carried out under their rules, regulations and oversight system. More details can be found on their website, [Oxford Gliding Club](https://www.oxfordgliding.com/ "Oxford Gliding Club").
 {: .about-all-intros}
-Our 2024-25 Risk Assessment can be found [here]({{ '/assets/pdfs/Gliding Club risk assessment 2024-2025.pdf' | relative_url }}).
+Our 2025-26 Risk Assessment and Club Safety Policy can be found [here]({{ '/assets/documents/Gliding Club Risk Assessment 2025-2026.docx' | relative_url }}) and [here]({{ '/assets/documents/Gliding Club Safety Policy 2025-2026.docx' | relative_url }}) respectively.
 {: .about-all-intros}
 
 

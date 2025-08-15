@@ -3,7 +3,7 @@ layout: sidebar_page
 title: " "
 permalink: /about_ougc/events/
 sidebar_include: "about_ougc_sidebar.html"
-cover: "/assets/images/about_ougc_pages/menu.webp"
+cover: "/assets/images/about_ougc_pages/Menu.webp"
 
 events:
   - title: Annual Dinner

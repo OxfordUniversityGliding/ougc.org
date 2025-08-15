@@ -1,6 +1,6 @@
 ---
 layout: sidebar_page
-title: 
+title: " "
 permalink: /about_ougc/aircraft/
 sidebar_include: "about_ougc_sidebar.html"
 cover: "/assets/images/home/home_7.webp"
@@ -11,14 +11,14 @@ aircraft:
     body: |
         Our ASK21, ESB. A popular training aircraft, K21’s are renowned for their friendly in-flight characteristics and easy handeling. Despite this they have good performance, with a 1:34 best glide ratio, making them great cross-country training aircraft.  
         ESB is also an aerobatic machine, with a G tolerance of +6.5 and -4. Many OUGC pilots have won aerobatic badges in her!  
-        It is possible to hire ESB for a full day, week or competition. See our costs page.
+        It is possible to hire ESB for a full day, week or competition. [costs](https://ougc.org/membership/fees/ "Fees") page.
 
   - name: ASTIR CS (FEF)
     image: assets/images/about_ougc_pages/ASTIR.webp
     alt: Our Astir FEF at Weston-on-the-Green
     body: |
         Our Astir CS, FEF. A great first cross-country machine, with decent performance and the ability to carry water in tanks to increase speed. Many pilots have completed flights hundreds of kilometers.  
-        It is possible to hire FEF for a full day, week or competition. See our costs page.
+        It is possible to hire FEF for a full day, week or competition. See our [costs](https://ougc.org/membership/fees/ "Fees") page.
 
   - name:  
     body: |

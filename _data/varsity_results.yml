@@ -1,0 +1,207 @@
+# _data/results.yml
+- year: 2025
+  airfield: "Gransden Lodge"
+  oxford: 925
+  cambridge: 756
+  winner: "Oxford"
+
+- year: 2024
+  airfield: "RAF Weston-on-the-Green"
+  note: "Cancelled"
+
+- year: 2023
+  airfield: "Gransden Lodge"
+  oxford: 753
+  cambridge: 612
+  winner: "Oxford"
+
+- year: 2022
+  airfield: "RAF Weston-on-the-Green"
+  oxford: 302
+  cambridge: 584
+  winner: "Cambridge"
+
+- year: 2021
+  airfield: "Gransden Lodge"
+  oxford: 279
+  cambridge: 333
+  winner: "Cambridge"
+
+- year: 2020
+  airfield: ""
+  note: "Cancelled due to Covid"
+
+- year: 2019
+  airfield: "Bicester"
+  oxford: 1009
+  cambridge: 990
+  winner: "Oxford"
+
+- year: 2018
+  airfield: "Gransden Lodge"
+  oxford: 802
+  cambridge: 814
+  winner: "Cambridge"
+
+- year: 2017
+  airfield: "Bicester"
+  oxford: 570
+  cambridge: 555
+  winner: "Oxford"
+
+- year: 2016
+  airfield: "Gransden Lodge"
+  oxford: 496
+  cambridge: 625
+  winner: "Cambridge"
+
+- year: 2015
+  airfield: "Bicester"
+  oxford: 740
+  cambridge: 692
+  winner: "Oxford"
+
+- year: 2014
+  airfield: "Gransden Lodge"
+  oxford: 525
+  cambridge: 478
+  winner: "Oxford"
+
+- year: 2013
+  airfield: "Bicester"
+  oxford: 371
+  cambridge: 352
+  winner: "Oxford"
+
+- year: 2012
+  airfield: "Gransden Lodge"
+  oxford: 16
+  cambridge: 38
+  winner: "Cambridge"
+
+- year: 2011
+  airfield: "Bicester"
+  oxford: 129
+  cambridge: 88
+  winner: "Oxford"
+
+- year: 2010
+  airfield: "Bicester"
+  oxford: 496
+  cambridge: 426
+  winner: "Oxford"
+
+- year: 2009
+  airfield: "Bicester"
+  oxford: 776
+  cambridge: 551
+  winner: "Oxford"
+
+- year: 2007
+  airfield: "Bicester"
+  oxford: 85
+  cambridge: 112
+  winner: "Cambridge"
+
+# --- Added rows from the new screenshot you provided ---
+- year: 2006
+  airfield: "Gransden Lodge"
+  oxford: ""
+  cambridge: ""
+  winner: "Oxford"
+
+- year: 2003
+  airfield: "Gransden Lodge"
+  oxford: ""
+  cambridge: ""
+  winner: "Cambridge"
+
+- year: 2002
+  airfield: "Bicester"
+  oxford: ""
+  cambridge: ""
+  winner: "Oxford"
+
+- year: 2001
+  airfield: "Bicester"
+  oxford: ""
+  cambridge: ""
+  winner: "Cambridge"
+
+- year: 1998
+  airfield: "X-Country Ladder"
+  oxford: 14671
+  cambridge: 13112
+  winner: "Oxford"
+
+- year: 1997
+  airfield: "Bicester"
+  oxford: 80
+  cambridge: 40
+  winner: "Oxford"
+
+- year: 1995
+  airfield: "Gransden Lodge"
+  oxford: 1083
+  cambridge: 1054
+  winner: "Oxford"
+
+- year: 1994
+  airfield: "Bicester"
+  oxford: 434
+  cambridge: 458
+  winner: "Cambridge"
+
+- year: 1993
+  airfield: "Bicester"
+  oxford: 213
+  cambridge: 194
+  winner: "Oxford"
+
+- year: 1992
+  airfield: "Bicester"
+  oxford: ""
+  cambridge: ""
+  winner: "Oxford"
+
+- year: 1991
+  airfield: "Bicester"
+  oxford: ""
+  cambridge: ""
+  winner: "Oxford"
+
+- year: 1990
+  airfield: "Bicester"
+  oxford: 1430
+  cambridge: 1074
+  winner: "Oxford"
+
+- year: 1989
+  airfield: "Bicester"
+  oxford: 1380
+  cambridge: 1323
+  winner: "Oxford"
+
+- year: 1988
+  airfield: "Gap-Tallard, France"
+  oxford: 50
+  cambridge: 67
+  winner: "Cambridge"
+
+- year: 1987
+  airfield: ""
+  oxford: ""
+  cambridge: ""
+  winner: "Oxford"
+
+- year: 1986
+  airfield: ""
+  oxford: ""
+  cambridge: ""
+  winner: "Cambridge"
+
+- year: 1985
+  airfield: ""
+  oxford: ""
+  cambridge: ""
+  winner: "Cambridge"

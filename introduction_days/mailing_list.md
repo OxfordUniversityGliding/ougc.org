@@ -7,7 +7,9 @@ sidebar_include: "intro_day_sidebar.html"
 ---
 
 # Intro Days Mailing List
+{% include mailinglist_form.html %}
 
+<!-- 
 <form action="https://ml.kundenserver.de/cgi-bin/mailinglist.cgi" method="POST" target="_blank">
   <input checked name="subscribe_r" type="radio" value="subscribe">
   Yes, I want to become a member of the mailing list intro-days@ougc.org.
@@ -39,4 +41,4 @@ sidebar_include: "intro_day_sidebar.html"
   <br />
   <input name="FBURLINVALID_L" type="hidden" value="https://ml.kundenserver.de/mailinglist/invalid.en.html">
 </form>
-    
+     -->

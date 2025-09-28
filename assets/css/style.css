@@ -872,3 +872,76 @@ img {
 @media (max-width: 900px) {
   .awards-grid { grid-template-columns: 1fr; gap: 1.25rem; }
 }
+
+.mailinglist-form {
+  max-width: 560px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.mailinglist-form h2 {
+  font-size: 1.4rem;
+  margin-bottom: .25rem;
+}
+
+.mailinglist-form .help {
+  font-size: .9rem;
+  color: #666;
+  margin-bottom: 1rem;
+}
+
+.mailinglist-form form {
+  display: grid;
+  gap: 1rem;
+  background: #f9fafb;
+  padding: 1.25rem;
+  border-radius: .75rem;
+  border: 1px solid #e5e7eb;
+}
+
+.mailinglist-form .radios {
+  display: grid;
+  gap: .75rem;
+}
+
+.mailinglist-form .radio-option {
+  display: flex;
+  gap: .5rem;
+  align-items: start;
+}
+
+.mailinglist-form .field {
+  display: grid;
+  gap: .25rem;
+}
+
+.mailinglist-form .field input[type=email],
+.mailinglist-form .field input[type=text] {
+  width: 100%;
+  padding: .6rem .8rem;
+  border: 1px solid #ccc;
+  border-radius: .5rem;
+  font-size: 1rem;
+}
+
+.mailinglist-form .actions {
+  display: flex;
+  gap: .75rem;
+}
+
+.mailinglist-form .actions input[type=submit],
+.mailinglist-form .actions input[type=reset] {
+  flex: 1;
+  padding: .6rem;
+  border-radius: 999px;
+  border: 1px solid #ccc;
+  background: #fff;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.mailinglist-form .actions input[type=submit] {
+  background: #1f6feb;
+  color: #fff;
+  border-color: #1f6feb;
+}

@@ -37,9 +37,13 @@ This is the random extra sidebar thingy on the right, have added a sidebar on th
       We are running Intro Days beginning in Michaelmas Term 2025. Join our mailing list to learn more.</strong>
     </p>
 
+<!-- 
 <div class="home-button-wrapper">
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSc6T1ZyQLUuAy42yDUZR1lau3dfc_rP_8RS72-c4VZ5W0LUTQ/viewform" class="big-button">Join Mailing List</a>
-</div>
+</div> -->
+<div class="home-button-wrapper">
+    <a href="/introduction_days/mailing_list/" class="big-button">Join Mailing List</a>
+</div> 
 
 <p>To attend an OUGC intro day:</p>
     <ol>

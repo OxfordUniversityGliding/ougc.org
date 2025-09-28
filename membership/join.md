@@ -31,8 +31,12 @@ After your intro day, you can join a waitlist to upgrade to a year-long membersh
 </div>
 
 <div class="home-button-wrapper">
+    <a href="/introduction_days/mailing_list/" class="big-button">Join Mailing List</a>
+</div> 
+
+<!-- <div class="home-button-wrapper">
   <a href="https://forms.gle/r7vCGwMiopgWtePF7" class="big-button">Join Mailing List</a>
-</div>
+</div> -->
 
 ## New member (previous gliding experience)?
 

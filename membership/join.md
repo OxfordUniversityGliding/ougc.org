@@ -15,13 +15,13 @@ Membership is open to all students and staff at both Oxford University and Oxfor
 **There is a weight limit of 95kg for pilots under instruction in gliders at our club. **This is purely due to the limitations of the aircraft we fly (max P2 weight 104 kg including parachute).
 
 ## New member (zero gliding experience)?
-**When you join OUGC, initially you can join for an introduction day.** An ‘Intro Day’ is a taster session of what gliding is all about!  
+**To join OUGC, initially you will need to join an introduction day.** An ‘Intro Day’ is a taster session of what gliding is all about!  
 
 <div class="home-button-wrapper">
   <a href="/introduction_days/key_information/" class="big-button">Intro Days Information</a>
 </div>
 
-After your intro day, you can join a waitlist to upgrade to a year-long membership. By upgrading your membership, you become an affiliate member (if a student) or a full member (if a staff member) of the Oxford Gliding Club.  
+After your intro day, you will have the option to join a waitlist to upgrade to a year-long membership. By upgrading your membership, you become an affiliate member (if a student) or a full member (if a staff member) of the Oxford Gliding Club.  
 
 **Your membership fee (whether intro day or full year) does not include any [flying fees](/membership/fees/).** You pay as you go depending on how much flying you do.
 
@@ -40,7 +40,7 @@ After your intro day, you can join a waitlist to upgrade to a year-long membersh
 
 ## New member (previous gliding experience)?
 
-**If you have previous experience flying gliders (i.e. flown solo before, or pre-solo with 20+ flights in the past two years), or signifcant other aviation experience (i.e. complete PPL)  we may be able to offer you full year membership. This is at the discretion of the OUGC committee.** The application form is in the ‘full year membership’ section below. Upon joining OUGC, we will ask you to come along to the airfield when an introduction day is taking place so that we can show you how the gliding club operates, and introduce you to people.
+If you have previous experience flying gliders (i.e. flown solo before, or pre-solo with 20+ flights in the past two years), or signifcant other aviation experience (i.e. complete PPL)  we may be able to offer you full year membership. **This is at the discretion of the OUGC committee, so please get in touch with us.** Upon joining OUGC, we will ask you to come along to the airfield when an introduction day is taking place so that we can show you how the gliding club operates, and introduce you to people.
 
 ## FULL YEAR MEMBERSHIP? 
 
@@ -54,7 +54,7 @@ We reserve the right not to renew your membership if you do not participate in a
 
 **We usually operate a waiting list for new beginner members,** so you should apply to be a member soon after your intro day if you’re keen! However, please note that the waitlist does not operate on a fixed timeline and we cannot guarantee availability of membership slots at any given time.
 
-
+<!-- 
 <div style="text-align: center; font-family: 'Montserrat', sans-serif; font-weight: 700;font-size: 1.2rem">
     TO JOIN OUGC AS A FULL YEAR MEMBER
 </div>
@@ -72,3 +72,5 @@ We reserve the right not to renew your membership if you do not participate in a
 4. Then the membership secretary will inform you that your membership has been activated.
 
 5. That’s it! The airfield is open every weekend: if you want to fly, make sure you turn up at 8.30am and help to set up! As this is a club everyone volunteers. It is expected everyone helps out on the ground, so when it’s your turn to fly everyone else will help you. 
+
+-->

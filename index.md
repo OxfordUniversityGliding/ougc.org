@@ -108,7 +108,7 @@ Don't miss out!
       <p class="feature-description">
       Find out more about costs and how to join
       </p>
-      <a href="/competitions/varsity/" class="feature-button">Join us today</a>
+      <a href="/membership/fees/" class="feature-button">Join us today</a>
   </div>
 
   <div class="feature-image">
@@ -145,4 +145,4 @@ Don't miss out!
 </div>
 
 ## Contact us
-For any general enquiries, please email **president@ougc.org**.
+For any general enquiries, please email [**president@ougc.org**](mailto:president@ougc.org).

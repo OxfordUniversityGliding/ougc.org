@@ -42,10 +42,10 @@ At the end of the day, the gliders are packed back into the hangar by everyone. 
 **We finish gliding between 4pm - 6pm depending on time of year, sometimes earlier if the weather is bad.**
 
 ## Complaints and Harassment
-If you have any complaint regarding club members please send it to the OUGC president ([Haixuan Liu](president@ougc.org)) or the senior member (Tim Guilford). We operate under Oxford Gliding Club policy, so any such complaints (e.g. sexual/racial assault) should also be sent to Martin Brown (Chairman of OGC).
+If you have any complaint regarding club members please send it to the OUGC president ([Haixuan Liu](mailto:president@ougc.org)) or the senior member (Tim Guilford). We operate under Oxford Gliding Club policy, so any such complaints (e.g. sexual/racial assault) should also be sent to Martin Brown (Chairman of OGC).
 
 ## Useful links
-Frequently asked questions are answered here [https://www.ougc.org/resources](https://www.ougc.org/resources)
+Frequently asked questions are answered here [https://www.ougc.org/membership/faqs](https://www.ougc.org/membership/faqs)
 
 [https://www.oxfordgliding.com/](https://www.oxfordgliding.com/)
 

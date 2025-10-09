@@ -15,9 +15,9 @@ Cost of gliding = membership fee (annual) + flying fees (weekly)
 ## Membership fees 2025-2026
 A trial membership with OUGC costs **£105**. After the first day (‘intro day’), this can be upgraded to a full membership by just paying the difference (e.g. £125 for students).
 
-**A year’s student membership costs £230.**. 
+**A year’s student membership costs £230.**
 
-**A year’s staff membership costs £380.**. 
+**A year’s staff membership costs £380.**
 
 Full year membership gets you access to the airfield, all OUGC events and expeditions. It pays for things like rent of the airfield, insurance, buildings, maintenance of the aircraft, hangarage and other facilities. 
 

@@ -5,6 +5,8 @@ tagline: " "
 permalink: competitions/varsity/
 cover: "/assets/images/competitions/varsity2025.jpeg"
 sidebar_include : "competitions_sidebar.html"
+redirect_from:
+  - /competitions/
 ---
 # Varsity Match
 Oxford University Gliding Club and Cambridge University Gliding Club (CUGC) take each other on in an annual varsity match. Exceptional OUGC pilots, who score well, act with great sportsmanship and make the best use of the conditions may be awarded a half-blue. 

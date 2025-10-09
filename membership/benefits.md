@@ -5,6 +5,8 @@ tagline: " "
 permalink: membership/benefits/
 cover: "/assets/images/membership/membership.jpeg"
 sidebar_include : "membership_sidebar.html"
+redirect_from:
+  - /membership/
 ---
 
 # MEMBERSHIP BENEFITS

@@ -4,6 +4,8 @@ title: Introduction Days
 tagline: Key Information
 permalink: introduction_days/key_information/
 sidebar_include: "intro_day_sidebar.html"
+redirect_from:
+  - /introduction_days/
 ---
 
 <!--

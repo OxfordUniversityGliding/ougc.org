@@ -7,6 +7,8 @@ cover: "/assets/images/competitions/esb_derig.jpeg"
 sidebar_include : "competitions_sidebar.html"
 ---
 
+<title>Varsity Results - OUGC</title>
+
 ## Varsity Match
 This year's varsity match was held at Gransden Lodge on 16 - 18th June 2025.
 

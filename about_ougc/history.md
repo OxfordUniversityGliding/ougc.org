@@ -6,6 +6,7 @@ sidebar_include: "about_ougc_sidebar.html"
 cover: "/assets/images/about_ougc_pages/OldNewspaper.webp"
 ---
 
+<title>Our History - OUGC</title>
 
 # OUGC’s history
 {: .about-history-titles}

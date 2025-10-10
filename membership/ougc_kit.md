@@ -6,6 +6,9 @@ permalink: /membership/ougc_kit/
 cover: "/assets/images/membership/ougckit3.webp"
 sidebar_include : "membership_sidebar.html"
 ---
+
+<title>Kit - OUGC</title>
+
 # OUGC Kit
 Gliding doesn’t require any ultra-specialised clothing. In winter, you just need several warm layers, a windproof coat, sturdy waterproof shoes, and sunglasses. On a sunny summer day, wear any shorts/trousers + t-shirt, sunglasses, and who could forget the bucket hat (ultimate gliding chic).
 

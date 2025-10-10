@@ -7,6 +7,7 @@ cover: "/assets/images/competitions/yana.jpeg"
 sidebar_include : "competitions_sidebar.html"
 ---
 
+<title>Gliding Competitions - OUGC</title>
 
 # Gliding competitions
 ## HOW DO gliding competitions work?

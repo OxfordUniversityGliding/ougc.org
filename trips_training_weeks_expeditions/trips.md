@@ -3,8 +3,12 @@ layout: sidebar_default
 permalink: trips_training_weeks_expeditions/trips/
 sidebar_include : "trips_expedition_sidebar.html"
 cover: /assets/images/trips_training_weeks_expeditions/badboyz.webp
+redirect_from:
+  - /trips_training_weeks_expeditions/
 
 ---
+
+<title>Trips - OUGC</title>
 
 <!-- <div class="page-layout">
 <aside class="sidebar">

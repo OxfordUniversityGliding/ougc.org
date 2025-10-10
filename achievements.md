@@ -5,6 +5,7 @@ tagline: " "
 permalink: /achievements/
 ---
 
+<title>Achievements - OUGC</title>
 
 As pilots progress through gliding, they may achieve different badges and qualifications from the British Gliding Association (solo, Bronze, Cross Country [XC], Aerobatics, Distance Diplomas, Instructor Ratings) and Fédération Aéronautique Internationale (Silver, Gold, Diamond recognising different levels of height, distance, and flight duration). 
 

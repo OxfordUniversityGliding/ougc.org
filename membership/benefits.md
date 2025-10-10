@@ -5,7 +5,11 @@ tagline: " "
 permalink: membership/benefits/
 cover: "/assets/images/membership/membership.jpeg"
 sidebar_include : "membership_sidebar.html"
+redirect_from:
+  - /membership/
 ---
+
+<title>Membership Benefits - OUGC</title>
 
 # MEMBERSHIP BENEFITS
 By joining OUGC you become an affiliate member of Oxford Gliding Club at RAF Weston-on-the-Green for one year (starting from the first month that you fly), and enjoy student or full flying fees. As a student you cannot learn to fly any cheaper than this!

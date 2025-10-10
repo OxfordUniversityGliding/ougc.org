@@ -5,6 +5,8 @@ tagline: Take Flight Today
 cover: /assets/images/covers/cover.webp
 ---
 
+<title>Home - OUGC</title>
+
 <div style="text-align: center; font-family: 'Montserrat', sans-serif; font-weight: 700;font-size: 1rem">
   WE ARE RUNNING INTRO DAYS BEGINNING IN OCTOBER 2025!
 </div>
@@ -17,10 +19,6 @@ cover: /assets/images/covers/cover.webp
   <img src="/assets/images/home/home_5.jpeg" alt="image 5">
   <img src="/assets/images/home/home_6.jpeg" alt="image 6">
 </div>
-
-
-## Fresher's Fair 8 - 9th Oct 2025
-Come see our stall, meet the committee and ask away!
 
 ## Intro Days Briefing 13th Oct 2025
 There will be an intro days briefing at **Doctorow Hall, St. Edmund Hall** College at **1900 BST**, Monday 13th Oct 2025. 
@@ -108,7 +106,7 @@ Don't miss out!
       <p class="feature-description">
       Find out more about costs and how to join
       </p>
-      <a href="/competitions/varsity/" class="feature-button">Join us today</a>
+      <a href="/membership/fees/" class="feature-button">Join us today</a>
   </div>
 
   <div class="feature-image">
@@ -145,4 +143,4 @@ Don't miss out!
 </div>
 
 ## Contact us
-For any general enquiries, please email **president@ougc.org**.
+For any general enquiries, please email [**president@ougc.org**](mailto:president@ougc.org).

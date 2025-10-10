@@ -940,3 +940,33 @@ img {
   color: #fff;
   border-color: #1f6feb;
 }
+
+/* ─────────── PLACES PAGE ─────────── */
+
+.table-large {
+  border: none;
+}
+
+.table-large td {
+  border: none;
+}
+
+.table-large img {
+  width:240px;
+  height: 240px;
+  object-fit: cover;
+}
+
+.table-small {
+  border: none;
+}
+
+.table-small td {
+  border: none;
+}
+
+.table-small img {
+  width:180px;
+  height: 180px;
+  object-fit: cover;
+}

@@ -7,6 +7,8 @@ cover: "/assets/images/membership/esb_flight.jpeg"
 sidebar_include : "membership_sidebar.html"
 ---
 
+<title>Joining the Club - OUGC</title>
+
 # How to Join
 Membership is open to all students and staff at both Oxford University and Oxford Brookes University. 
 

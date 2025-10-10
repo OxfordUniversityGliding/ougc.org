@@ -8,6 +8,8 @@ redirect_from:
 
 ---
 
+<title>Trips - OUGC</title>
+
 <!-- <div class="page-layout">
 <aside class="sidebar">
   <ul class="side-nav">

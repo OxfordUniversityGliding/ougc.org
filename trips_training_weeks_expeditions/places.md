@@ -6,6 +6,8 @@ cover: /assets/images/trips_training_weeks_expeditions/placescover.webp
 
 ---
 
+<title>Places We Go - OUGC</title>
+
 ## PLACES TO GO WITH OUGC
 
 There are around 80 gliding clubs in the UK - too many to list here. Here are some of the places OUGC has visited in the past few years…

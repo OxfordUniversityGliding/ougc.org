@@ -7,6 +7,8 @@ cover: "/assets/images/membership/camphill.jpeg"
 sidebar_include : "membership_sidebar.html"
 ---
 
+<title>Weather - OUGC</title>
+
 # Weather
 
 This is a quick guide to weather forecasts for (relatively inexperienced, probably pre-solo) glider pilots. It is written with OUGC’s home airfield (big, flat, grass airfield that’s with no mountains or coast nearby) in mind.

@@ -30,6 +30,8 @@ events:
     align: right    # image on the LEFT, text on the RIGHT
 ---
 
+<title>Events - OUGC</title>
+
 # Events
 {: .about-events-titles}
 

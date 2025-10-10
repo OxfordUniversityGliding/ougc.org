@@ -6,6 +6,8 @@ permalink: introduction_days/what_to_expect/
 sidebar_include : "intro_day_sidebar.html"
 ---
 
+<title>Intro Days: What to Expect - OUGC</title>
+
 <!-- <div class="page-layout">
 <aside class="sidebar">
   <ul class="side-nav">

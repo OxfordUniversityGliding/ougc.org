@@ -8,6 +8,8 @@ redirect_from:
   - /introduction_days/
 ---
 
+<title>Key Intro Day Info - OUGC</title>
+
 <!--
 This is the random extra sidebar thingy on the right, have added a sidebar on the left instead
 <div class="page-layout">

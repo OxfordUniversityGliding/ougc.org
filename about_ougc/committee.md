@@ -35,6 +35,8 @@ committee:
 
 ---
 
+<title>Our Committee - OUGC</title>
+
 # OUR COMMITTEE 2025-2026
 {: .about-committee-titles}
 

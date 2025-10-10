@@ -6,6 +6,8 @@ permalink: introduction_days/mailing_list/
 sidebar_include: "intro_day_sidebar.html"
 ---
 
+<title>Intro Days Mailing List - OUGC</title>
+
 # Intro Days Mailing List
 {% include mailinglist_form.html %}
 

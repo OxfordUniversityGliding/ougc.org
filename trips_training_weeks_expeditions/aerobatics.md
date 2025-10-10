@@ -6,6 +6,9 @@ cover: /assets/images/trips_training_weeks_expeditions/aerobaticscover.webp
 
 
 ---
+
+<title>Aerobatics - OUGC</title>
+
 ### AEROBATICS
 
 <div style="display: flex; align-items: flex-start; gap: 1em;">

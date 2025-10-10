@@ -7,6 +7,8 @@ cover: "/assets/images/membership/maintenance_2.jpeg"
 sidebar_include : "membership_sidebar.html"
 ---
 
+<title>Fees - OUGC</title>
+
 # FEES
 Gliding is the least expensive form of airsport - because everyone volunteers, from the instructors to the winch driver, there are no salaries to pay, and no engines mean no fuel costs! This makes it more affordable for students living on a budget. It is good value, awesome fun.
 

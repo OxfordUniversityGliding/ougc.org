@@ -5,6 +5,8 @@ tagline: " "
 permalink: /donate/
 ---
 
+<title>Donate - OUGC</title>
+
 To donate to OUGC please use the University’s donation page. 
 <div class="home-button-wrapper">
   <a href="https://www.campaign.ox.ac.uk/page.aspx?pid=2936" class="big-button">Donate via University of Oxford</a>

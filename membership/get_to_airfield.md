@@ -7,6 +7,8 @@ cover: "/assets/images/membership/rainbow.jpeg"
 sidebar_include : "membership_sidebar.html"
 ---
 
+<title>Getting to the Airfied - OUGC</title>
+
 # Where are we?
 The RAF Weston-on-the-Green airfield is about 10 miles from Oxford itself. The address of the airfield is:
 

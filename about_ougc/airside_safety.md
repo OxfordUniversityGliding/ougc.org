@@ -7,6 +7,8 @@ cover: "/assets/images/about_ougc_pages/2017_maintenance-OUGC_FEF.jpg"
 
 ---
 
+<title>Airside Safety - OUGC</title>
+
 # Safety & Risk Assessment
 {: .about-events-titles}
 

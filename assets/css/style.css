@@ -232,7 +232,6 @@ body {
   height: 180px;
   flex: 1 0 calc(100% / 6 - 10px);
   object-fit: cover;
-  border-radius: 6px;
 }
 
 /* Responsive fallback: stack or reduce columns */
@@ -280,7 +279,6 @@ body {
   width: 100%;
   max-width: 450px;
   height: auto;
-  border-radius: 4px;
 }
 
 
@@ -585,8 +583,7 @@ body {
 }
 .committee-row .photo img{
   width: 100%;
-  height: auto;
-  border-radius: 6px;           
+  height: auto;          
   object-fit: cover;
   /* THE LEFT MARGIN IS ALREADY 0 */
 }
@@ -700,7 +697,6 @@ body {
   max-width: 100%;
   height: auto;
   margin-left: 1rem;
-  border-radius: 12px;
   display: block;
 }
 .story-caption{
@@ -757,7 +753,6 @@ body {
   width: 100%;
   height: auto;
   display: block;
-  border-radius: 0;       /* set to 12px if you want rounded corners */
 }
 
 .aircraft-name{
@@ -804,7 +799,6 @@ body {
   width: 100%;
   height: auto;
   display: block;
-  border-radius: 0;         /* change to 12px if you want rounded corners */
 }
 
 /* text block */
@@ -851,6 +845,7 @@ img {
   height: auto;
   display: block;
   margin: 0 auto;
+  border-radius: 6px; /* Use this to adjust rounded edges for all images for greater uniformity across website */
 }
 
 .awards-year {

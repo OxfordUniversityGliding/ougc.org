@@ -20,10 +20,6 @@ cover: /assets/images/covers/cover.webp
   <img src="/assets/images/home/home_6.jpeg" alt="image 6">
 </div>
 
-
-## Fresher's Fair 8 - 9th Oct 2025
-Come see our stall, meet the committee and ask away!
-
 ## Intro Days Briefing 13th Oct 2025
 There will be an intro days briefing at **Doctorow Hall, St. Edmund Hall** College at **1900 BST**, Monday 13th Oct 2025. 
 Don't worry, you will be directed from the porter's lodge

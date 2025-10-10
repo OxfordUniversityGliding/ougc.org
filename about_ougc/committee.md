@@ -41,7 +41,7 @@ committee:
 {: .about-committee-titles}
 
 The Committee are the organising heart of the club.  
-For any general enquiries, please email president@ougc.org
+For any general enquiries, please email [president@ougc.org](mailto:president@ougc.org)
 {: .about-committee-intros}
 
 <div class="committee-stack">

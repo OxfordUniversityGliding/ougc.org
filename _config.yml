@@ -11,4 +11,5 @@ tags_path: /tags/
 markdown: kramdown
 plugins:
   - jekyll-remote-theme
+  - jekyll-redirect-from
 remote_theme: vfvong/jekyll-theme-quartz

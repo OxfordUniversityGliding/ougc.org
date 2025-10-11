@@ -6,6 +6,8 @@ sidebar_include: "about_ougc_sidebar.html"
 cover: "/assets/images/about_ougc_pages/home_13.webp"
 ---
 
+<title>Club Documents - OUGC</title>
+
 OUGC CONSTITUTION
 {: .about-documents-titles}
 OUGC operates according to its constitution. This can be found [here]({{ '/assets/documents/Gliding Club Constitution 2025-2026.docx' | relative_url }}).

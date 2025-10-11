@@ -6,6 +6,8 @@ permalink: introduction_days/basic_airfield_safety/
 sidebar_include : "intro_day_sidebar.html"
 ---
 
+<title>Basic Airfield Safety - OUGC</title>
+
 <!-- <div class="page-layout">
 <aside class="sidebar">
   <ul class="side-nav">

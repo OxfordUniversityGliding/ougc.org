@@ -6,6 +6,8 @@ cover: /assets/images/trips_training_weeks_expeditions/placescover.webp
 
 ---
 
+<title>Places We Go - OUGC</title>
+
 ## PLACES TO GO WITH OUGC
 
 There are around 80 gliding clubs in the UK - too many to list here. Here are some of the places OUGC has visited in the past few years…
@@ -32,16 +34,16 @@ Places we visit nearby include (listed roughly closest to furthest away):
 
 The Long Mynd is located close to the Wales/England border. Sometimes nicknamed ‘Little Switzerland’, the ridge is 330m above the surrounding countryside and can see snow in any season. The flying is generally the right level of ‘interesting’, so pilots of any experience can expect to do some flying. It’s winch-only and quite good value.  The Midland GC is friendly and well-equipped with simulator, bunk rooms and delicious meals thanks to chefs Helen and Dave. Also there are always ponies and sheep!  OUGC members visited the Long Mynd in 2020 (UK Junior Gliding Winter Series), 2021 and 2022 for training weeks.
 
-<table style = "border: none;">
+<table class = "table-large">
   <tr>
-    <td style = "border: none;"><img src="/assets/images/trips_training_weeks_expeditions/longmynd1.jpg.webp" alt="longmynd1" style="width:240px; height: 240px; object-fit:cover;"></td>
-    <td style = "border: none;"><img src="/assets/images/trips_training_weeks_expeditions/longmynd2.jpg.webp" alt="longmynd2" style="width:240px; height: 240px; object-fit:cover;"></td>
-    <td style = "border: none;"><img src="/assets/images/trips_training_weeks_expeditions/longmynd3.jpeg.webp" alt="longmynd3" style="width:240px; height: 240px; object-fit:cover;"></td>
+    <td><img src="/assets/images/trips_training_weeks_expeditions/longmynd1.jpg.webp" alt="longmynd1"></td>
+    <td><img src="/assets/images/trips_training_weeks_expeditions/longmynd2.jpg.webp" alt="longmynd2"></td>
+    <td><img src="/assets/images/trips_training_weeks_expeditions/longmynd3.jpeg.webp" alt="longmynd3"></td>
   </tr> 
   <tr>
-    <td style = "border: none;"><img src="/assets/images/trips_training_weeks_expeditions/longmynd4.jpeg.webp" alt="longmynd4" style="width:240px; height: 240px; object-fit:cover;"></td>
-    <td style = "border: none;"><img src="/assets/images/trips_training_weeks_expeditions/longmynd5.jpeg.webp" alt="longmynd5" style="width:240px; height: 240px; object-fit:cover;"></td>
-    <td style = "border: none;"><img src="/assets/images/trips_training_weeks_expeditions/longmynd6.jpeg.webp" alt="longmynd6" style="width:240px; height: 240px; object-fit:cover;"></td>
+    <td><img src="/assets/images/trips_training_weeks_expeditions/longmynd4.jpeg.webp" alt="longmynd4"></td>
+    <td><img src="/assets/images/trips_training_weeks_expeditions/longmynd5.jpeg.webp" alt="longmynd5"></td>
+    <td><img src="/assets/images/trips_training_weeks_expeditions/longmynd6.jpeg.webp" alt="longmynd6"></td>
   </tr>
 </table>
 
@@ -50,12 +52,12 @@ The Long Mynd is located close to the Wales/England border. Sometimes nicknamed 
 
 Sutton Bank is an epic ridge site with a white horse carved into the hillside. The view from the clubhouse is beautiful, the bunkrooms are warm, the bacon butties bountiful, instructors are nice people. Basically aerotow only. OUGC visited in January 2022: adventures included a first aerotow solo and evening wave flying!
 
-<table style = "border: none;">
+<table class = "table-small">
   <tr>
-    <td style = "border: none;"><img src="/assets/images/trips_training_weeks_expeditions/suttonbank1.jpg.webp" alt="suttonbank1" style="width:180px; height: 180px; object-fit:cover;"></td>
-    <td style = "border: none;"><img src="/assets/images/trips_training_weeks_expeditions/suttonbank2.jpg.webp" alt="suttonbank2" style="width:180px; height: 180px; object-fit:cover;"></td>
-    <td style = "border: none;"><img src="/assets/images/trips_training_weeks_expeditions/suttonbank3.jpg.webp" alt="suttonbank3" style="width:180px; height: 180px; object-fit:cover;"></td>
-    <td style = "border: none;"><img src="/assets/images/trips_training_weeks_expeditions/suttonbank4.jpg.webp" alt="suttonbank4" style="width:180px; height: 180px; object-fit:cover;"></td>
+    <td><img src="/assets/images/trips_training_weeks_expeditions/suttonbank1.jpg.webp" alt="suttonbank1"></td>
+    <td><img src="/assets/images/trips_training_weeks_expeditions/suttonbank2.jpg.webp" alt="suttonbank2"></td>
+    <td><img src="/assets/images/trips_training_weeks_expeditions/suttonbank3.jpg.webp" alt="suttonbank3"></td>
+    <td><img src="/assets/images/trips_training_weeks_expeditions/suttonbank4.jpg.webp" alt="suttonbank4"></td>
   </tr> 
 </table>
 
@@ -65,12 +67,12 @@ Portmoak is located between Perth and Edinburgh. Two ridges provide lift in diff
 
 Portmoak trip reports [2019](https://drive.google.com/file/d/1Jx3He2TU6BHtLfl7DaYgmZ2_SoHYGruB/view?usp=sharing), [2018](https://drive.google.com/file/d/1zJ4D13cVJVlwdI5788AFP32_a4ZgF23C/view?usp=share_link), [2017](https://drive.google.com/file/d/1eJ--F-CNyTSKiC9a2s2Qefn62Uh9QxHa/view?usp=share_link), [2016](https://drive.google.com/file/d/1CKtVdzUOlSKce3s0hi8EhXWR9r6eVXb1/view?usp=sharing)
 
-<table style = "border: none;">
+<table class = "table-small">
   <tr>
-    <td style = "border: none;"><img src="/assets/images/trips_training_weeks_expeditions/portmoak1.jpg.webp" alt="portmoak1" style="width:180px; height: 180px; object-fit:cover;"></td>
-    <td style = "border: none;"><img src="/assets/images/trips_training_weeks_expeditions/portmoak2.jpg.webp" alt="portmoak2" style="width:180px; height: 180px; object-fit:cover;"></td>
-    <td style = "border: none;"><img src="/assets/images/trips_training_weeks_expeditions/portmoak3.jpg.webp" alt="portmoak3" style="width:180px; height: 180px; object-fit:cover;"></td>
-    <td style = "border: none;"><img src="/assets/images/trips_training_weeks_expeditions/portmoak4.jpg.webp" alt="portmoak4" style="width:180px; height: 180px; object-fit:cover;"></td>
+    <td><img src="/assets/images/trips_training_weeks_expeditions/portmoak1.jpg.webp" alt="portmoak1"></td>
+    <td><img src="/assets/images/trips_training_weeks_expeditions/portmoak2.jpg.webp" alt="portmoak2"></td>
+    <td><img src="/assets/images/trips_training_weeks_expeditions/portmoak3.jpg.webp" alt="portmoak3"></td>
+    <td><img src="/assets/images/trips_training_weeks_expeditions/portmoak4.jpg.webp" alt="portmoak4"></td>
   </tr> 
 </table>
 
@@ -80,17 +82,17 @@ OUGC has done trips to the Alps and Unterwossen in the past. Some amazing mounta
 
 [La Motte (France 2017) trip report here](https://drive.google.com/file/d/1hEoebC7y2WeHCM_bg_Hfp5YP1wwbtKTd/view?usp=sharing)
 
-<table style = "border: none;">
+<table class = "table-small">
   <tr>
-    <td style = "border: none;"><img src="/assets/images/trips_training_weeks_expeditions/europe1.jpg.webp" alt="europe1" style="width:180px; height: 180px; object-fit:cover;"></td>
-    <td style = "border: none;"><img src="/assets/images/trips_training_weeks_expeditions/europe2.jpg.webp" alt="europe2" style="width:180px; height: 180px; object-fit:cover;"></td>
-    <td style = "border: none;"><img src="/assets/images/trips_training_weeks_expeditions/europe3.jpg.webp" alt="europe3" style="width:180px; height: 180px; object-fit:cover;"></td>
-    <td style = "border: none;"><img src="/assets/images/trips_training_weeks_expeditions/europe4.jpg.webp" alt="europe4" style="width:180px; height: 180px; object-fit:cover;"></td>
+    <td><img src="/assets/images/trips_training_weeks_expeditions/europe1.jpg.webp" alt="europe1"></td>
+    <td><img src="/assets/images/trips_training_weeks_expeditions/europe2.jpg.webp" alt="europe2"></td>
+    <td><img src="/assets/images/trips_training_weeks_expeditions/europe3.jpg.webp" alt="europe3"></td>
+    <td><img src="/assets/images/trips_training_weeks_expeditions/europe4.jpg.webp" alt="europe4"></td>
   </tr> 
     <tr>
-    <td style = "border: none;"><img src="/assets/images/trips_training_weeks_expeditions/europe5.jpg.webp" alt="europe5" style="width:180px; height: 180px; object-fit:cover;"></td>
-    <td style = "border: none;"><img src="/assets/images/trips_training_weeks_expeditions/europe6.jpg.webp" alt="europe6" style="width:180px; height: 180px; object-fit:cover;"></td>
-    <td style = "border: none;"><img src="/assets/images/trips_training_weeks_expeditions/europe7.jpg.webp" alt="europe7" style="width:180px; height: 180px; object-fit:cover;"></td>
-    <td style = "border: none;"><img src="/assets/images/trips_training_weeks_expeditions/europe8.jpg.webp" alt="europe8" style="width:180px; height: 180px; object-fit:cover;"></td>
+    <td><img src="/assets/images/trips_training_weeks_expeditions/europe5.jpg.webp" alt="europe5"></td>
+    <td><img src="/assets/images/trips_training_weeks_expeditions/europe6.jpg.webp" alt="europe6"></td>
+    <td><img src="/assets/images/trips_training_weeks_expeditions/europe7.jpg.webp" alt="europe7"></td>
+    <td><img src="/assets/images/trips_training_weeks_expeditions/europe8.jpg.webp" alt="europe8"></td>
   </tr> 
 </table>

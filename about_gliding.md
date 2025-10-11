@@ -6,6 +6,8 @@ permalink: /about_gliding/
 image: /assets/images/covers/about_gliding_cover.webp
 ---
 
+<title>About Gliding - OUGC</title>
+
 ## How do we fly?
 Gliders are aircraft without engines. They work by getting an initial launch, either towed up behind a powered aircraft, or by taking a winch launch. Once released they descend at a constant rate. To remain airborne the pilot must find sources of lift in the atmosphere. Once lift has been found the pilot stays in it, rising upwards with the air-mass. Once at a suitable altitude you can fly on, descending until it is time to find lift again. By doing this a glider can travel vast distances (thousands of kilometres) in a day, all without an engine!
 

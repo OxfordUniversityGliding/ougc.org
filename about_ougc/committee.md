@@ -1,6 +1,8 @@
 ---
 layout: sidebar_page
 title: " "
+redirect_from:
+  - /about_ougc/
 permalink: /about_ougc/committee/
 sidebar_include: "about_ougc_sidebar.html"
 cover: "/assets/images/about_ougc_pages/K13_launching.webp"
@@ -33,11 +35,13 @@ committee:
 
 ---
 
+<title>Our Committee - OUGC</title>
+
 # OUR COMMITTEE 2025-2026
 {: .about-committee-titles}
 
 The Committee are the organising heart of the club.  
-For any general enquiries, please email president@ougc.org
+For any general enquiries, please email [president@ougc.org](mailto:president@ougc.org)
 {: .about-committee-intros}
 
 <div class="committee-stack">

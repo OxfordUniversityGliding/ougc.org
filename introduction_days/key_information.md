@@ -4,7 +4,11 @@ title: Introduction Days
 tagline: Key Information
 permalink: introduction_days/key_information/
 sidebar_include: "intro_day_sidebar.html"
+redirect_from:
+  - /introduction_days/
 ---
+
+<title>Key Intro Day Info - OUGC</title>
 
 <!--
 This is the random extra sidebar thingy on the right, have added a sidebar on the left instead

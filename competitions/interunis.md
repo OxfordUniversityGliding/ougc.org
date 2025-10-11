@@ -7,6 +7,8 @@ cover: "/assets/images/competitions/camphill_2.jpeg"
 sidebar_include : "competitions_sidebar.html"
 ---
 
+<title>Inter-Unis - OUGC</title>
+
 # Inter-Unis
 The Inter-University Gliding Competition has a history of over 35 years, starting in 1979 with a flying competition organised by Nottingham at their home site of Saltby, between themselves and Edinburgh. The year afterwards Cambridge were added to the competition as well, and they hosted it the following year at their home airfield of Duxford.
 

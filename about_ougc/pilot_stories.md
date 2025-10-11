@@ -32,6 +32,8 @@ stories:
         
 ---
 
+<title>Pilot Stories - OUGC</title>
+
 # Everyone can become exceptional at OUGC
 {: .about-pilot-titles}
 

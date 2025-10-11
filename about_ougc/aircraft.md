@@ -37,6 +37,8 @@ aircraft:
         3x Astir (basic single seater, often pilot’s first single seater aircraft)  
 ---
 
+<title>Our Aircraft - OUGC</title>
+
 # Our Aircraft
 {: .about-aircraft-titles}
 

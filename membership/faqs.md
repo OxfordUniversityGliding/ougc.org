@@ -7,6 +7,8 @@ cover: "/assets/images/membership/esb_sleep.jpeg"
 sidebar_include : "membership_sidebar.html"
 ---
 
+<title>FAQs & Resources - OUGC</title>
+
 # Frequently Asked Questions & Other Resources 
 Answers to frequently asked questions about OUGC are available in a PDF. 
 

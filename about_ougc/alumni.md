@@ -6,6 +6,8 @@ sidebar_include: "about_ougc_sidebar.html"
 cover: "/assets/images/about_ougc_pages/Bicester.webp"
 ---
 
+<title>The 1937 Club - OUGC</title>
+
 # Introducing ‘The 1937 Club’
 {: .about-alumni-titles}
 

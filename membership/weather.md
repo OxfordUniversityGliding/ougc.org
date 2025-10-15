@@ -95,7 +95,7 @@ There are many more parameters and plots on RASP that are of interest. For examp
 </div>
 
 <div class="home-button-wrapper">
-  <a href="/assets/images/membership/RASP.pdf" class="big-button">RASP DEMYSTIFIED</a>
+  <a href="/assets/documents/membership/RASP.pdf" class="big-button">RASP DEMYSTIFIED</a>
 </div>
 
 <div style="text-align: center; font-family: 'Montserrat', sans-serif; font-weight: 500;font-size: 1.2rem">

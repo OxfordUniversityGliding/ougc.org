@@ -38,8 +38,8 @@ Flights are scored from a GPS trace, taken from the FLARM device carried in all 
 ## Find out more
 One of the best ways to find out what competing in the varsity competition is like is to read some of our reports. 
 
-The 2019 report can be found [here](https://drive.google.com/open?id=1MbbZ20Afu9haqJkjxAmyJ16P1gRQRb8U) (Oxford win).
+The 2019 report can be found [here](/assets/documents/competitions/Varsity2019.pdf) (Oxford win).
 
-The 2018 report can be found [here](/assets/images/competitions/Varsity2018.pdf) (narrow Cambridge win).
+The 2018 report can be found [here](/assets/documents/competitions/Varsity2018.pdf) (narrow Cambridge win).
 
-The 2017 report is [here](/assets/images/competitions/Varsity2017.pdf). (Oxford win).
+The 2017 report is [here](/assets/documents/competitions/Varsity2017.pdf). (Oxford win).

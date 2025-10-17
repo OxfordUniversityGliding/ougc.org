@@ -1,5 +1,5 @@
 <nav class="ougc-sidebar">
-  <h2>Trips, Training Weeks & Expeditions</h2>
+  <h2>{{ include.page_title }}</h2>
   <ul>
     {%- assign current = page.url | replace:'index.html','' | replace:'//','/' | downcase -%}
 

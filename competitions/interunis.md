@@ -4,7 +4,7 @@ title: " "
 tagline: " "
 permalink: competitions/interunis/
 cover: "/assets/images/competitions/camphill_2.jpeg"
-sidebar_include : "competitions_sidebar.html"
+sidebar_title: "competitions"
 ---
 
 <title>Inter-Unis - OUGC</title>

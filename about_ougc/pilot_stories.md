@@ -2,7 +2,7 @@
 layout: sidebar_page
 title: " "
 permalink: /about_ougc/pilot_stories/
-sidebar_include: "about_ougc_sidebar.html"
+sidebar_title: "about_ougc"
 cover: "/assets/images/covers/pilot_stories_cover.webp"
 
 stories:

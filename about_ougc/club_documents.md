@@ -2,7 +2,7 @@
 layout: sidebar_page
 title: Club Documents
 permalink: /about_ougc/documents/
-sidebar_include: "about_ougc_sidebar.html"
+sidebar_title: "about_ougc"
 cover: "/assets/images/about_ougc_pages/home_13.webp"
 ---
 

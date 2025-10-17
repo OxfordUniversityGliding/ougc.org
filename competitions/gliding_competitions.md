@@ -4,7 +4,7 @@ title: " "
 tagline: " "
 permalink: competitions/gliding_competitions/
 cover: "/assets/images/competitions/yana.jpeg"
-sidebar_include : "competitions_sidebar.html"
+sidebar_title: "competitions"
 ---
 
 <title>Gliding Competitions - OUGC</title>

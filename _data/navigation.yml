@@ -45,7 +45,11 @@
     - title: What to Expect
       url: /introduction_days/what_to_expect/
 - title: News
-  url: /news/
+  children:
+    - title: Latest Club News
+      url: /news/latest
+    - title: Final Glide
+      url: /news/final_glide
 - title: Achievements
   url: /achievements/
 - title: Competitions

@@ -2,7 +2,7 @@
 layout: sidebar_page
 title: " "
 permalink: /about_ougc/alumni_1937_club/
-sidebar_include: "about_ougc_sidebar.html"
+sidebar_title: "about_ougc"
 cover: "/assets/images/about_ougc_pages/Bicester.webp"
 ---
 

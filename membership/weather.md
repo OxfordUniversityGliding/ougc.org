@@ -4,7 +4,7 @@ title: " "
 tagline: " "
 permalink: /membership/weather/
 cover: "/assets/images/membership/camphill.jpeg"
-sidebar_include : "membership_sidebar.html"
+sidebar_title: "membership"
 ---
 
 <title>Weather - OUGC</title>

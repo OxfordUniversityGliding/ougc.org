@@ -2,7 +2,7 @@
 layout: sidebar_page
 title: " "
 permalink: /about_ougc/aircraft/
-sidebar_include: "about_ougc_sidebar.html"
+sidebar_title: "about_ougc"
 cover: "/assets/images/home/home_7.webp"
 aircraft:
   - name: ASK 21 (ESB)

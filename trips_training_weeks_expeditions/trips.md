@@ -1,7 +1,7 @@
 ---
 layout: sidebar_default
 permalink: trips_training_weeks_expeditions/trips/
-sidebar_include : "trips_expedition_sidebar.html"
+sidebar_title: "trips_expeditions"
 cover: /assets/images/trips_training_weeks_expeditions/badboyz.webp
 redirect_from:
   - /trips_training_weeks_expeditions/

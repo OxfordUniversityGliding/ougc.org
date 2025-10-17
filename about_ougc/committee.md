@@ -4,7 +4,7 @@ title: " "
 redirect_from:
   - /about_ougc/
 permalink: /about_ougc/committee/
-sidebar_include: "about_ougc_sidebar.html"
+sidebar_title: "about_ougc"
 cover: "/assets/images/about_ougc_pages/K13_launching.webp"
 
 committee:

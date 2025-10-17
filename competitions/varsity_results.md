@@ -4,7 +4,7 @@ title: " "
 tagline: " "
 permalink: competitions/varsity_results/
 cover: "/assets/images/competitions/esb_derig.jpeg"
-sidebar_include : "competitions_sidebar.html"
+sidebar_title: "competitions"
 ---
 
 <title>Varsity Results - OUGC</title>

@@ -3,8 +3,23 @@ layout: default
 ---
 <!-- Use this layout for the same as sidebar_default but with a smaller header -->
  <!-- Dark overlay is buggy for smaller header though and I can't be bothered to find the problem-->
+{%- case page.sidebar_title -%}
+  {%- when "about_ougc" -%}
+    {%- assign title = "About OUGC" -%}
+  {%- when "membership" -%}
+    {%- assign title = "Membership Information" -%}
+  {%- when "intro_days" -%}
+    {%- assign title = "Introduction Days" -%}
+  {%- when "news" -%}
+    {%- assign title = "News" -%}
+  {%- when "competitions" -%}
+    {%- assign title = "Competitions" -%}
+  {%- when "trips_expeditions" -%}
+    {%- assign title = "Trips, Training Weeks & Expeditions" -%}
+{%- endcase -%}
+
 <div class="about-wrapper">
-  {% include {{ page.sidebar_include}} %}
+  {% include sidebar.html page_title = title %}
   <main class="about-content">
     {{ content }}
   </main>

@@ -3,7 +3,7 @@ layout: sidebar_page
 title: Introduction Days
 tagline: More Information and What to Expect
 permalink: introduction_days/what_to_expect/
-sidebar_include : "intro_day_sidebar.html"
+sidebar_title: "intro_days"
 ---
 
 <title>Intro Days: What to Expect - OUGC</title>

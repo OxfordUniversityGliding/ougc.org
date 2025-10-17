@@ -4,7 +4,7 @@ title: " "
 tagline: " "
 permalink: /membership/join/
 cover: "/assets/images/membership/esb_flight.jpeg"
-sidebar_include : "membership_sidebar.html"
+sidebar_title: "membership"
 ---
 
 <title>Joining the Club - OUGC</title>

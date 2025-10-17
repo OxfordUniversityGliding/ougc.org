@@ -4,7 +4,7 @@ title: " "
 tagline: " "
 permalink: membership/benefits/
 cover: "/assets/images/membership/membership.jpeg"
-sidebar_include : "membership_sidebar.html"
+sidebar_title: "membership"
 redirect_from:
   - /membership/
 ---

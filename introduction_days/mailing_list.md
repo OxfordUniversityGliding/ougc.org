@@ -3,7 +3,7 @@ layout: sidebar_page
 title: Introduction Days
 tagline: Join Mailing List
 permalink: introduction_days/mailing_list/
-sidebar_include: "intro_day_sidebar.html"
+sidebar_title: "intro_days"
 ---
 
 <title>Intro Days Mailing List - OUGC</title>

@@ -4,7 +4,7 @@ title: " "
 tagline: " "
 permalink: /membership/get_to_airfield/
 cover: "/assets/images/membership/rainbow.jpeg"
-sidebar_include : "membership_sidebar.html"
+sidebar_title: "membership"
 ---
 
 <title>Getting to the Airfied - OUGC</title>

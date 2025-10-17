@@ -4,7 +4,7 @@ title: " "
 tagline: " "
 permalink: /membership/fees/
 cover: "/assets/images/membership/maintenance_2.jpeg"
-sidebar_include : "membership_sidebar.html"
+sidebar_title: "membership"
 ---
 
 <title>Fees - OUGC</title>

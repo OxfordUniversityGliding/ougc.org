@@ -4,7 +4,7 @@ title: " "
 tagline: " "
 permalink: /membership/ougc_kit/
 cover: "/assets/images/membership/ougckit3.webp"
-sidebar_include : "membership_sidebar.html"
+sidebar_title: "membership"
 ---
 
 <title>Kit - OUGC</title>

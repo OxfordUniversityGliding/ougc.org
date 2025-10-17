@@ -4,7 +4,7 @@ title: " "
 tagline: " "
 permalink: competitions/varsity/
 cover: "/assets/images/competitions/varsity2025.jpeg"
-sidebar_include : "competitions_sidebar.html"
+sidebar_title: "competitions"
 redirect_from:
   - /competitions/
 ---

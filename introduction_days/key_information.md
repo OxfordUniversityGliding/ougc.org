@@ -3,7 +3,7 @@ layout: sidebar_page
 title: Introduction Days
 tagline: Key Information
 permalink: introduction_days/key_information/
-sidebar_include: "intro_day_sidebar.html"
+sidebar_title: "intro_days"
 redirect_from:
   - /introduction_days/
 ---

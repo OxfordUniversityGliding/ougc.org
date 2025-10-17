@@ -4,7 +4,7 @@ title: " "
 tagline: " "
 permalink: /membership/faqs/
 cover: "/assets/images/membership/esb_sleep.jpeg"
-sidebar_include : "membership_sidebar.html"
+sidebar_title: "membership"
 ---
 
 <title>FAQs & Resources - OUGC</title>

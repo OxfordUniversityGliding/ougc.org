@@ -20,14 +20,6 @@ cover: /assets/images/covers/cover.webp
   <img src="/assets/images/home/home_6.jpeg" alt="image 6">
 </div>
 
-## Intro Days Briefing 13th Oct 2025
-There will be an intro days briefing at **Doctorow Hall, St. Edmund Hall** College at **1900 BST**, Monday 13th Oct 2025. 
-Don't worry, you will be directed from the porter's lodge
-to the location of the briefing room. 
-Details of what we do and how intro days will be run will be explained,
-and the **online booking will be released during this talk**. 
-Don't miss out!
-
 <div class="home-button-wrapper">
   <a href="/introduction_days/key_information/" class="big-button">Introduction Day Information</a>
 </div>

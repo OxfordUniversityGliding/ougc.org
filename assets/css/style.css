@@ -970,3 +970,21 @@ img {
   height: 180px;
   object-fit: cover;
 }
+
+/* ─────────── AEROBATICS PAGE ─────────── */
+
+.aerobatics {
+  display: flex;
+  align-items: flex-start;
+  gap: 1em;
+  flex-direction: row;
+}
+
+.aerobatics img {
+  width: 100%;
+  max-width: 340px;
+}
+
+@media (max-width: 900px){
+  .aerobatics { flex-direction: column; }
+}

@@ -31,7 +31,7 @@ cover: /assets/images/covers/cover.webp
 
 <div style="text-align: center; font-family: 'Georgia', serif;font-size: 1rem">
 <br>
-  We fly gliders &mdash aeroplanes without engines. Gliding is a beautiful, pure form of flight that harnesses the natural energy in the atmosphere. Launched into the sky at 70 mph, you will find it can be dramatic, challenging and exciting. On a good flying day, you could be soaring with the birds and among the clouds. 
+  We fly gliders &mdash; aeroplanes without engines. Gliding is a beautiful, pure form of flight that harnesses the natural energy in the atmosphere. Launched into the sky at 70 mph, you will find it can be dramatic, challenging and exciting. On a good flying day, you could be soaring with the birds and among the clouds. 
 
 <br>
 <br>

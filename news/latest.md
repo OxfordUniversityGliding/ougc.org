@@ -10,9 +10,9 @@ redirect_from:
 
 # Latest News
 
-{%- for row in site.data.news -%}
-<br>
+{%- for row in site.data.news %}
 ## {{ row.day }} {{ row.month }} {{ row.year }} &mdash; {{ row.title }}
 
 {{ row.article }}
-{%- endfor -%}
+
+{% endfor -%}

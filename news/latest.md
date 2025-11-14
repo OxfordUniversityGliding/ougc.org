@@ -6,4 +6,13 @@ redirect_from:
   - /news/
 ---
 
-# THIS PAGE IS UNDER CONSTRUCTION
+<title>Latest Club News - OUGC</title>
+
+# Latest News
+
+{%- for row in site.data.news %}
+## {{ row.day }} {{ row.month }} {{ row.year }} &mdash; {{ row.title }}
+
+{{ row.article }}
+
+{% endfor -%}

@@ -45,7 +45,7 @@ This is the random extra sidebar thingy on the right, have added a sidebar on th
     <a href="/introduction_days/mailing_list/" class="big-button">Join Mailing List</a>
 </div> 
 
-<img src="/assets/images/intro_days_MT_2025.png" alt="Intro Day Schedule 2025">
+<img src="/assets/images/intro_days_MT_2025_sold.png" alt="Intro Day Schedule 2025">
 
 <p>To attend an OUGC intro day:</p>
     <ol>

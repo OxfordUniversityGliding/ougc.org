@@ -19,6 +19,30 @@ In order to send it for this repair, we also need a new trailer in which to tran
 
 Overall, for the surface refinishing, 9,000 hours inspection, and new trailer, we are looking to raise **£60,000**. Thanks to the stewardship of past committees, OUGC has some reserves and is financially stable. If we can get past this hurdle, then our assets will be well positioned for decades to come. We are deeply grateful for anyone who can assist us in reaching our goals. Please do not hesitate to get in touch at **president@ougc.org** if you would like to discuss more details.
 
+# Our Generous Donors
+Many have helped us on our way, most of whom are inspectors and instructors with their time and expertise. Over the past years we have had several generous supporters, including Paul Jessop and Dean Winslow.
+
+
+<div class="feature-section">
+  <div class="feature-image">
+    <img src="/assets/images/support_us/DW.jpg" alt="DW">
+  </div>
+  <div class="feature-text">
+    <p class="feature-description">
+    <blockquote class="testimonial">
+      <p>
+        Learning to fly gliders as a 13-year-old in 1966 transformed my life.  I want to give back!
+      </p>
+      <footer>– Dean Winslow</footer>
+    </blockquote>
+
+      Prof. Dean 'Racer' Winslow is a retired Air Force Colonel, currently Professor of Medicine at Stanford University and an Honorary Fellow at Blackfriar's Hall, University of Oxford.
+    </p>
+  </div>
+</div>
+
+
+
 # Support Us!
 ## UK Taxpayers
 <div class="home-button-wrapper">
@@ -34,8 +58,7 @@ This is fully secured, and makes use of their charitable status, enabling ‘Gif
 
 For US Taxpayers, please write “**#C2542 OU Gliding Club**” in the _Further Information_ box.
 
-
-If you require any tax advice please get in contact with us at **president@ougc.org**, and we will help to arrange a meeting with the University of Oxford Sports Federation.
+If you require any tax advice please get in contact with us at **president@ougc.org**, and we will help to arrange a meeting with the University of Oxford Sports Federation. We also have a [GoFundMe](https://www.gofundme.com/f/ougc-glider-gel-coat-resurfacing) page.
 
 # 1937 Club
 <div class="home-button-wrapper">

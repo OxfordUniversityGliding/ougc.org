@@ -1,7 +1,8 @@
 ---
-layout: sidebar_page
+layout: sidebar_default
 permalink: news/final_glide/
 sidebar_title: "news"
+cover: "/assets/images/news/250415-CKC_3940.jpg"
 ---
 
 <title>Final Glide - OUGC</title>

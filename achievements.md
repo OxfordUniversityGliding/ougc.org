@@ -3,6 +3,7 @@ layout: page
 title: Club Awards and Achievements
 tagline: " "
 permalink: /achievements/
+cover: "/assets/images/news/250418-CKC_4694.jpg"
 ---
 
 <title>Achievements - OUGC</title>

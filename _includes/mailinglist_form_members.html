@@ -1,0 +1,41 @@
+<div class="mailinglist-form">
+  <p class="help">Use your email address below. We’ll ask you to confirm it.</p>
+
+  <form action="https://ml.kundenserver.de/cgi-bin/mailinglist.cgi" method="POST" target="_blank" novalidate>
+    <fieldset class="radios" role="radiogroup" aria-label="Mailing list action">
+      <div class="radio-option">
+        <input id="subscribe" name="subscribe_r" type="radio" value="subscribe" checked>
+        <label for="subscribe">Yes, I want to join <strong>ougc-members@ougc.org</strong>.</label>
+      </div>
+      <div class="radio-option">
+        <input id="unsubscribe" name="subscribe_r" type="radio" value="unsubscribe">
+        <label for="unsubscribe">Remove me from <strong>ougc-members@ougc.org</strong>.</label>
+      </div>
+    </fieldset>
+
+    <div class="field">
+      <label for="email">Enter your email address</label>
+      <input id="email" name="mailaccount_r" type="email" inputmode="email" autocomplete="email"
+             maxlength="51" size="51" placeholder="you@example.com" required>
+    </div>
+
+    <div class="field">
+      <label for="email2">Please confirm your email address</label>
+      <input id="email2" name="mailaccount2_r" type="email" inputmode="email" autocomplete="email"
+             maxlength="51" size="51" placeholder="you@example.com" required>
+    </div>
+
+    <!-- Required hidden fields -->
+    <input name="FBMLNAME" type="hidden" value="ougc-members@ougc.org">
+    <input name="FBLANG" type="hidden" value="en">
+    <input name="FBURLERROR_L" type="hidden" value="https://ml.kundenserver.de/mailinglist/error.en.html">
+    <input name="FBURLSUBSCRIBE_L" type="hidden" value="https://ml.kundenserver.de/mailinglist/subscribe.en.html">
+    <input name="FBURLUNSUBSCRIBE_L" type="hidden" value="https://ml.kundenserver.de/mailinglist/unsubscribe.en.html">
+    <input name="FBURLINVALID_L" type="hidden" value="https://ml.kundenserver.de/mailinglist/invalid.en.html">
+
+    <div class="actions">
+      <input type="submit" value="Send">
+      <input type="reset" value="Reset">
+    </div>
+  </form>
+</div>

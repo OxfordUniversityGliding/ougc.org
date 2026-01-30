@@ -1,5 +1,9 @@
 # Final glide PDFs should all follow this filename convention: final-glide-<issue>.pdf, eg. final-glide-1.pdf
 
+- issue: 42
+  month: December
+  year: 2025
+
 - issue: 41
   month: December
   year: 2022

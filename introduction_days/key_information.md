@@ -10,26 +10,6 @@ redirect_from:
 
 <title>Key Intro Day Info - OUGC</title>
 
-<!--
-This is the random extra sidebar thingy on the right, have added a sidebar on the left instead
-<div class="page-layout">
-<aside class="sidebar">
-  <ul class="side-nav">
-    <li><span class="section-label">Introduction Days</span></li>
-    
-  <li>
-    <a href="/introduction_days/key_information/" class="{% if page.url == '/intro/key-info/' %}active-black{% endif %}">Key Information</a>
-  </li>
-    <li>
-      <a href="/introduction_days/basic_airfield_safety/" class="{% if page.url == '/intro/safety/' %}active-black{% endif %}">Basic Airfield Safety</a>
-    </li>
-    <li>
-      <a href="/introduction_days/what_to_expect/" class="{% if page.url == '/intro/more-info/' %}active-black{% endif %}">More Information and What to Expect</a>
-    </li>
-  </ul>
-</aside>
--->
-
   <main class="main-content">
     <h1>About Intro Days</h1>
     <p>
@@ -38,14 +18,14 @@ This is the random extra sidebar thingy on the right, have added a sidebar on th
     </p>
     <p>
       <strong>Introduction days are extremely popular and we sell out each term.
-      We are running Intro Days in Michaelmas Term 2025 and Hilary Term 2026. Join our mailing list to get notifications of ticket purchase.</strong>
+      We are running Intro Days in Hilary Term and Trinity Term 2026. Join our mailing list to get notifications of ticket purchase.</strong>
     </p>
 
 <div class="home-button-wrapper">
     <a href="/introduction_days/mailing_list/" class="big-button">Join Mailing List</a>
 </div> 
 
-<img src="/assets/images/intro_days_HT_2026_sold.png" alt="Intro Day Schedule 2026">
+<img src="/assets/images/intro_days_Hilary_2026.png" alt="Intro Day Schedule 2026">
 
 <p>To attend an OUGC intro day:</p>
     <ol>

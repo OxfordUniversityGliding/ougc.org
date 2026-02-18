@@ -11,7 +11,7 @@ to own and operate a 2-seater training glider.
 However, a few major mid-life maintenance items are due. 
 If all goes to plan, completing the surface refinishing and 9,000 hours inspection will allow us to apply for a life extension from 12,000 to 18,000 hours. This will give the glider another 30 years of flying life, and boost its value to over £100,000.
 
-In its decades of service, a training glider undergoes many stress cycles from simulated launch failures and hard landings. The surface layer has now developed many systematic, parallel cracks. 
+In its decades of service, a training glider undergoes many stress cycles from simulated launch failures and hard landings. The surface layer has now developed many systematic, parallel cracks. Its airbrake bearings need replacement too, which involves an invasive procedure best done together with the resurfacing.
 
 <div class="feature-section">
 
@@ -25,13 +25,12 @@ In its decades of service, a training glider undergoes many stress cycles from s
   </div>
 </div>
 
-In order to send it for this repair, we also need a new trailer in which to transport it. Our old metal tube trailer has succumbed to the weather and suffered irrepairable rust damage. We hope to buy a new trailer made of fiberglass and alumnum which would last many decades due to the nature of its construction. This costs around £16,000 - 23,000.
+In order to send it for this repair, we also need a new trailer in which to transport it. Our old metal tube trailer has succumbed to the weather and suffered irrepairable rust damage. We hope to buy a new trailer made of fiberglass and alumnum which would last many decades due to the nature of its construction. This costs around £16,000 -- 23,000. Additionally there are expenses related to its cross-border journey and paperwork.
 
-Overall, for the surface refinishing, 9,000 hours inspection, and new trailer, we are looking at an expenditure of approximately **£55,000**, of which the repairs amount to £28,000. Thanks to the stewardship of past committees and donors, OUGC is already _almost half way there_. If we can get past this hurdle, then our assets will be well positioned for decades to come. We are deeply grateful for anyone who can assist us in reaching our goals. This can be in many forms, including technical advice, maintenance, and connections within the gliding community. Please do not hesitate to get in touch at **president@ougc.org** if you would like to discuss more details.
+Overall, for **the surface refinishing, 9,000 hours inspection, and new trailer**, we are looking at an expenditure of approximately **£55,000 -- 60,000**, of which the core repairs amount to **£28,000 -- 30,000**. Thanks to the stewardship of past committees and donors, OUGC is already _almost half way there_. If we can get past this hurdle, then our assets will be well positioned for decades to come. We are deeply grateful for anyone who can assist us in reaching our goals. This can be in many forms, including technical advice, maintenance, and connections within the gliding community. Please do not hesitate to get in touch at **president@ougc.org** if you would like to discuss more details.
 
 # Our Generous Donors
 Many have helped us on our way, most of whom are inspectors and instructors with their time and expertise. Over the past years we have had several generous supporters, including Paul Jessop and Dean Winslow.
-
 <div class="feature-section">
   <div class="feature-image">
     <img src="/assets/images/support_us/DW.jpg" alt="DW">

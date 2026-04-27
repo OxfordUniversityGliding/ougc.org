@@ -8,7 +8,7 @@ cover: /assets/images/covers/cover.webp
 <title>Home - OUGC</title>
 
 <div style="text-align: center; font-family: 'Montserrat', sans-serif; font-weight: 700;font-size: 1rem">
-  WE ARE RUNNING INTRO DAYS BEGINNING IN OCTOBER 2025!
+  WE ARE RUNNING TRIAL FLIGHTS BEGINNING IN MAY 2026!
 </div>
 
 <div class="image-grid">

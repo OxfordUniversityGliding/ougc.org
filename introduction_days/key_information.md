@@ -11,33 +11,33 @@ redirect_from:
 <title>Key Intro Day Info - OUGC</title>
 
   <main class="main-content">
-    <h1>About Intro Days</h1>
+    <h1>About Intro Days and Trial Flights</h1>
     <p>
       All folks new to OUGC, regardless of whether they have flown before or not,
-      must sign up for an ‘introduction day’ or ‘intro day’ for short.
+      must sign up for an ‘introduction day’ or ‘intro day’ for short to be considered for membership. We also run 'trial flights' for those who want to experience the thrill of flying without wishing to become members.
     </p>
     <p>
       <strong>Introduction days are extremely popular and we sell out each term.
-      We are running Intro Days in Hilary Term and Trinity Term 2026. Join our mailing list to get notifications of ticket purchase.</strong>
+      We are running Trial Flights in Trinity Term 2026, and Intro Days in Michaelmas Term 2026. Join our mailing list to get notifications of ticket purchase.</strong>
     </p>
 
 <div class="home-button-wrapper">
     <a href="/introduction_days/mailing_list/" class="big-button">Join Mailing List</a>
 </div> 
 
-<img src="/assets/images/intro_days_Hilary_2026.png" alt="Intro Day Schedule 2026">
-
 <p>To attend an OUGC intro day:</p>
     <ol>
       <li>You must be aged 18 or over.</li>
-      <li>You must be a student enrolled for 2024–2025 at Oxford Uni or Oxford Brookes Uni, OR a staff member working for either University.</li>
+      <li>You must be a student enrolled for 2025-2026 at Oxford Uni or Oxford Brookes Uni, OR a staff member working for either University.</li>
     </ol>
   </main>
 
 
-**2025-2026 INTRO DAY TICKET: £105**  
-
-The cost of your intro day ‘ticket’ includes the cost of a temporary day membership, most of which is the insurance. However, it does not include [flying fees](/membership/fees), which you need to pay by card at the end of your intro day. This is because people do different amounts of flying, depending on the weather, their enjoyment of the flight, and instructor capacity.  
+**2026 TRIAL FLIGHT TICKET: £80**  
+First flight: £45,
+Second flight: £20,
+BBQ: £12.50.
+<!-- The cost of your ‘ticket’ includes the cost of a temporary day membership, most of which is the insurance. However, it does not include [flying fees](/membership/fees), which you need to pay by card at the end of your intro day. This is because people do different amounts of flying, depending on the weather, their enjoyment of the flight, and instructor capacity.   -->
 
 During an intro day, you will meet up with your intro day guide somewhere within Oxford city centre, and we will bring you to the airfield in a car/taxi.
 

@@ -37,7 +37,6 @@ We are deeply grateful for anyone who can assist us in reaching our goals. This 
 - Inviting as many alumni from your time in OUGC as possible to join our [Linkedin group](https://www.linkedin.com/groups/16070013/) to stay updated, spreading the message far and wide;
 - What we could do to solve recurrent problems, such as the wheel brake and tyre punctures;
 - Quality of life improvements -- how to go about designing a new instrument panel, where to get a good deal on aircraft upholstery, etc;
-- Supporting us via donations, the average amount being around £500;
 - And many more that we may not have even thought of!
 
 # Our Generous Donors
@@ -65,25 +64,22 @@ Many have helped us on our way, most of whom are inspectors and instructors with
 # Support Us!
 ## UK Taxpayers
 <div class="home-button-wrapper">
-  <a href="https://www.campaign.ox.ac.uk/mag?id=6d8eedf1-6db8-458a-819f-20b6eb7673ad" class="big-button">Donate via University of Oxford (UK Taxpayers)</a>
+  <a href="https://www.campaign.ox.ac.uk/mag?id=6d8eedf1-6db8-458a-819f-20b6eb7673ad" class="big-button">Donate via University of Oxford</a>
 </div>
 
-This is fully secured, and makes use of their charitable status, enabling **‘Gift Aid’** to be added (in the UK) and makes all donations tax deductible. 
+UK taxpayers can also use this link to apply Gift Aid for these donations where applicable.
 
 ## US Taxpayers
 <div class="home-button-wrapper">
-  <a href="https://www.oxfordna.org/donate?id=89eaca28-fb7d-4cc1-8875-e4f0fe70d3b8" class="big-button">Donate via Americans for Oxford (US Taxpayers)</a>
+  <a href="https://www.oxfordna.org/donate?id=89eaca28-fb7d-4cc1-8875-e4f0fe70d3b8" class="big-button">Donate via Americans for Oxford</a>
 </div>
 
-For US Taxpayers, please write “**#C2542 OU Gliding Club**” in the _Further Information_ box.
+Note for US donors - Please write “#C2542 OU Gliding Club” in the _Further Information_ box.
 
-If you require any tax advice please get in contact with us at **president@ougc.org**, and we will help to arrange a meeting with the University of Oxford Sports Federation. 
-<div class="home-button-wrapper">
-  <a href="https://www.gofundme.com/f/ougc-glider-gel-coat-resurfacing" class="big-button">GoFundMe Campaign</a>
-</div>
+For more information about giving tax efficiently to the club please contact **sport@dae.ox.ac.uk**.
 
 # 1937 Club
-The 1937 Club welcomes alumni and kind supporters to receive updates on our club activities, such as intro days, maintenance events, and flying achievements. The club also aims to better integrate the community of past and present OUGC members and support a thriving gliding community. For any enquiries, please email **president@ougc.org**.
 <div class="home-button-wrapper">
   <a href="/about_ougc/alumni_1937_club/" class="big-button">The 1937 Club</a>
 </div>
+The 1937 Club welcomes alumni and kind supporters to receive updates on our club activities, such as intro days, maintenance events, and flying achievements. The club also aims to better integrate the community of past and present OUGC members and support a thriving gliding community. For any enquiries, please email **president@ougc.org**.

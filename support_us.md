@@ -62,7 +62,7 @@ Many have helped us on our way, most of whom are inspectors and instructors with
 
 
 # Support Us!
-## UK Taxpayers
+## Support Us Online!
 <div class="home-button-wrapper">
   <a href="https://www.campaign.ox.ac.uk/mag?id=6d8eedf1-6db8-458a-819f-20b6eb7673ad" class="big-button">Donate via University of Oxford</a>
 </div>

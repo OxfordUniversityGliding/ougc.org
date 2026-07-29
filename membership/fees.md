@@ -38,7 +38,7 @@ Two seater flying: winch launch = £11.50,  glider hire = £0.40/minute
 
 ### Student rates (full year membership):
 
-Two seater flying: winch launch = £8.50,  glider hire = £0.40/minute
+<p id="pTest">Two seater flying: winch launch = £8.50,  glider hire = £0.40/minute</p>
 
 Single seater flying: winch launch = £7.50,  glider hire = £0.30/minute
 

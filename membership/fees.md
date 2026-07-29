@@ -27,7 +27,7 @@ Please note the OUGC membership year starts from the month of your first flight 
 
 Full year members can receive a rebate of £50 by participating in OUGC maintenance activities throughout the year. Information on this scheme is provided upon upon joining as a full year member.
 
-## Flying fees 2025-2026
+## Flying fees
 Flying fees cover the cost of wear and tear on the aircraft and insurance. OUGC student members are entitled to ‘student’ rates on all Oxford Gliding Club (OGC) & OUGC aircraft, while OUGC staff members and all intro day attendees pay ‘full’ rates. Rates can be found on [OGC's website](https://www.oxfordgliding.com/prices).
 
 The cost per minute depends on the aircraft being flown (two seaters are more a little more expensive than single seaters). OGC charges you weekly via their online portal for the cost of your flights and you need to keep your OGC flying account in credit (payment is via credit/debit card).

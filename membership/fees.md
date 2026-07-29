@@ -28,31 +28,15 @@ Please note the OUGC membership year starts from the month of your first flight 
 Full year members can receive a rebate of £50 by participating in OUGC maintenance activities throughout the year. Information on this scheme is provided upon upon joining as a full year member.
 
 ## Flying fees 2025-2026
-Flying fees cover the cost of wear and tear on the aircraft and insurance. OUGC student members are entitled to ‘student’ rates on all Oxford Gliding Club (OGC) & OUGC aircraft, while OUGC staff members pay ‘full’ rates. 
+Flying fees cover the cost of wear and tear on the aircraft and insurance. OUGC student members are entitled to ‘student’ rates on all Oxford Gliding Club (OGC) & OUGC aircraft, while OUGC staff members and all intro day attendees pay ‘full’ rates. Rates can be found on [OGC's website](https://www.oxfordgliding.com/prices).
 
 The cost per minute depends on the aircraft being flown (two seaters are more a little more expensive than single seaters). OGC charges you weekly via their online portal for the cost of your flights and you need to keep your OGC flying account in credit (payment is via credit/debit card).
-
-### Trial rates (intro day only):
-
-Two seater flying: winch launch = £11.50,  glider hire = £0.40/minute
-
-### Student rates (full year membership):
-
-Two seater flying: winch launch = £8.50,  glider hire = £0.40/minute
-
-Single seater flying: winch launch = £7.50,  glider hire = £0.30/minute
-
-### Staff rates (full year membership):
-
-Two seater flying: winch launch = £11.50,  glider hire = £0.50/minute
-
-Single seater flying: winch launch = £10.50,  glider hire = £0.40/minute
 
 When training you normally do a set of two to three winch launches, with about 15-25 mins total in the air in a two seater glider. During summer, it might be possible to have a longer soaring flight. The actual teaching time per day will be far higher than this, as each lesson includes a full brief, explaining what is going to be learned, and a debrief, which revises everything to ensure proper understanding. 
 
 This comes to around £30-50 for a day of learning to fly, plus some allowance for transport to the airfield and lunch! 
 
-## Daily Rental Fees 2025 - 2026
+## Daily Rental Fees 2025-2026
 It is also possible to rent the gliders owned by OUGC or OGC for exclusive use during expeditions and competitions. Rental of OGC gliders can be arranged via the OGC committee.
 
 Rental of OUGC gliders is arranged directly with the OUGC committee. Non-OUGC members will have to sign a rental agreement prior to this. It is recommended to get in touch with the OUGC committee well in advance to discuss any rental plans you might have.
@@ -64,3 +48,14 @@ Anyone wanting to take an OUGC or OGC glider to another site needs to get prior 
 **Astir ‘FEF’: £35 / day**
 
 *Hire for 9 day competitions or expeditions will be charged a 7 days hire.
+
+<!--<script async>
+    const trialRates = document.getElementById('trialRates');
+    const studentTwoSeaterRates = document.getElementById('studentTwoSeaterRates');
+    const studentSingleSeaterRates = document.getElementById('studentSingleSeaterRates');
+    const staffTwoSeaterRates = document.getElementById('staffTwoSeaterRates');
+    const staffSingleSeaterRates = document.getElementById('staffSingleSeaterRates');
+
+    const singleSeaterFlyingString = 'Single seater flying: winch launch = £{0}, glider hire = £{1}/minute';
+    const twoSeaterFlyingString = 'Two seater flying: winch launch = £{0}, glider hire = £{1}/minute';
+</script>-->

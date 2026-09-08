@@ -24,16 +24,15 @@ In its decades of service, a training glider undergoes many stress cycles from s
   </div>
 </div>
 
-In order to send it for this repair, we also need a new trailer in which to transport it. Our old metal tube trailer has succumbed to the weather and suffered irrepairable rust damage. We hope to buy a new trailer made of fiberglass and alumnum which would last many decades due to the nature of its construction. This costs around £16,000 -- 23,000. Another option is to source a second-hand trailer for around £8,000. Additionally there are expenses related to its cross-border journey and paperwork.
+In order to send it for this repair, we also need a new trailer in which to transport it. Our old metal tube trailer has succumbed to the weather and suffered irrepairable rust damage. We hope to buy a new trailer made of fiberglass and alumnum which would last many decades due to the nature of its construction. This costs around £20,000 -- 23,000. Another option is to source a second-hand trailer for around £8,000. Additionally there are expenses related to its cross-border journey and paperwork.
 
-Overall, for **the surface refinishing, 9,000 hours inspection, and new trailer**, we are looking at an expenditure of approximately **£55,000 -- 60,000**, of which the core repairs amount to **£28,000 -- 30,000**. Thanks to the stewardship of past committees and donors, OUGC is already _almost half way there_. If we can get past this hurdle, then our assets will be well positioned for decades to come and provide subsidized flying for university students.
+Overall, for **the surface refinishing, 9,000 hours inspection, and new trailer**, we are looking at an expenditure of approximately **£55,000 -- 60,000**, of which the core repairs amount to **£32,000 -- 34,000**. Thanks to the stewardship of past committees and donors, OUGC is already _over half way there_. If we can get past this hurdle, then our assets will be well positioned for decades to come and provide subsidized flying for university students.
 
 # Many Ways to Help
 We are deeply grateful for anyone who can assist us in reaching our goals. This can be in many forms, including technical advice, maintenance, and connections within the gliding community as mentioned below. Please do not hesitate to get in touch at **president@ougc.org** if you would like to discuss more details. Here are some specific points we are thinking about:
 - Second-hand K-21 trailer for sale in the UK or Europe, especially anyone who could help us view and inspect an offer in Europe;
 - Preparing documentation for a glider crossing the UK border for repairs;
-- Hiring a flat-bed lorry for transporting the glider in its trailer to Slovenia;
-- Alternatively, how to drive the trailer to Slovenia -- where to park, which roads to take, etc;
+- Alternatively, how to drive the trailer to France -- where to park, which roads to take, etc;
 - Inviting as many alumni from your time in OUGC as possible to join our [Linkedin group](https://www.linkedin.com/groups/16070013/) to stay updated, spreading the message far and wide;
 - What we could do to solve recurrent problems, such as the wheel brake and tyre punctures;
 - Quality of life improvements -- how to go about designing a new instrument panel, where to get a good deal on aircraft upholstery, etc;

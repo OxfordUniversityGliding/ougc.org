@@ -18,8 +18,10 @@ redirect_from:
     </p>
     <p>
       <strong>Introduction days are extremely popular and we sell out each term.
-      We are running Trial Flights in Trinity Term 2026, and Intro Days in Michaelmas Term 2026. Join our mailing list to get notifications of ticket purchase.</strong>
+      We are running Intro Days in Michaelmas Term 2026. Join our mailing list to get notifications of ticket purchase.</strong>
     </p>
+
+**SAVE THE DATES: October 18, 24; Nov 1, 7, 15, 21.**  
 
 <div class="home-button-wrapper">
     <a href="/introduction_days/mailing_list/" class="big-button">Join Mailing List</a>
@@ -33,10 +35,7 @@ redirect_from:
   </main>
 
 
-**2026 TRIAL FLIGHT TICKET: £80**  
-First flight: £45,
-Second flight: £20,
-BBQ: £12.50.
+**2026 MICHAELMAS INTRO DAY TICKET: PRICING TBC**  
 <!-- The cost of your ‘ticket’ includes the cost of a temporary day membership, most of which is the insurance. However, it does not include [flying fees](/membership/fees), which you need to pay by card at the end of your intro day. This is because people do different amounts of flying, depending on the weather, their enjoyment of the flight, and instructor capacity.   -->
 
 During an intro day, you will meet up with your intro day guide somewhere within Oxford city centre, and we will bring you to the airfield in a car/taxi.

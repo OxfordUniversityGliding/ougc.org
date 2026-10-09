@@ -14,8 +14,8 @@ Gliding is the least expensive form of airsport - because everyone volunteers, f
 
 Cost of gliding = membership fee (annual) + flying fees (weekly)
 
-## Membership fees 2025-2026
-A trial membership with OUGC costs **£105**. After the first day (‘intro day’), this can be upgraded to a full membership by just paying the difference (e.g. £125 for students).
+## Membership fees 2026-2027
+An intro day with OUGC costs **£98**.
 
 **A year’s student membership costs £230.**
 
@@ -36,7 +36,7 @@ When training you normally do a set of two to three winch launches, with about 1
 
 This comes to around £30-50 for a day of learning to fly, plus some allowance for transport to the airfield and lunch! 
 
-## Daily Rental Fees 2025-2026
+## Daily Rental Fees 2026-2027
 It is also possible to rent the gliders owned by OUGC or OGC for exclusive use during expeditions and competitions. Rental of OGC gliders can be arranged via the OGC committee.
 
 Rental of OUGC gliders is arranged directly with the OUGC committee. Non-OUGC members will have to sign a rental agreement prior to this. It is recommended to get in touch with the OUGC committee well in advance to discuss any rental plans you might have.

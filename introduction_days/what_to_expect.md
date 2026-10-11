@@ -27,7 +27,7 @@ sidebar_title: "intro_days"
 </div> -->
 
 # What to Expect on your Intro Day
-You will arrive at the airfield by 8.15am - 8.45am.  
+You will meet to get a Taxi / transport around 8.15am. We'll arrive at the airfield around 8.45am.
 
 Then we start getting the gliders ready for the day: qualified people conduct daily inspections on each aircraft and then we all help get them out of the hangar and onto the airfield. Your buddy will tell you about the gliders and how to move them safely.  
 
@@ -37,14 +37,14 @@ There is always a **Duty Instructor** running the airfield and a **Duty Pilot** 
 
 In the meantime, there’s plenty to do keeping the airfield running. You will certainly learn a LOT!  
 
-After your flights, your instructor will have a chat with you and write in your logbook.  
+After your flights, your instructor will have a chat with you and write in your logbook. At the end of the day, the gliders are packed back into the hangar by everyone.
 
-At the end of the day, the gliders are packed back into the hangar by everyone. **You need to pay for your flights (a launch fee + glider hire per minute, each of your ~10 min training flight will be about £10-£15) and optional logbook (£3.50) by card before the end of the day.**
+ <!-- **You need to pay for your flights (a launch fee + glider hire per minute, each of your ~10 min training flight will be about £10-£15) and optional logbook (£3.50) by card before the end of the day.** -->
 
 **We finish gliding between 4pm - 6pm depending on time of year, sometimes earlier if the weather is bad.**
 
 ## Complaints and Harassment
-If you have any complaint regarding club members please send it to the OUGC president ([Haixuan Liu](mailto:president@ougc.org)) or the senior member (Tim Guilford). We operate under Oxford Gliding Club policy, so any such complaints (e.g. sexual/racial assault) should also be sent to Martin Brown (Chairman of OGC).
+If you have any complaint regarding club members please send it to the [OUGC president](mailto:president@ougc.org) or the senior member (Tim Guilford). We operate under Oxford Gliding Club policy, so any such complaints (e.g. sexual/racial assault) should also be sent to Geoff Stephens, [Chairman of OGC](mailto:chairman@oxfordgliding.com).
 
 ## Useful links
 Frequently asked questions are answered here [https://www.ougc.org/membership/faqs](https://www.ougc.org/membership/faqs)

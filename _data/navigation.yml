@@ -14,8 +14,8 @@
       url: /about_ougc/history/
     - title: Alumni - The 1937 Club
       url: /about_ougc/alumni_1937_club/
-    - title: Events
-      url: /about_ougc/events/
+    # - title: Events
+    #   url: /about_ougc/events/
     - title: Airside Safety
       url: /about_ougc/airside_safety/
     - title: Club Documents
@@ -70,5 +70,7 @@
       url: /trips_training_weeks_expeditions/places/
     - title: Aerobatics
       url: /trips_training_weeks_expeditions/aerobatics/
+- title: 90th Anniversary Celebrations
+  url: /90th_anniversary/
 - title: Support Us
   url: /support_us/

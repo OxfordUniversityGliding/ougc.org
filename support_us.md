@@ -39,7 +39,7 @@ We are deeply grateful for anyone who can assist us in reaching our goals. This 
 - And many more that we may not have even thought of!
 
 # Our Generous Donors
-Many have helped us on our way, most of whom are inspectors and instructors with their time and expertise. Over the past years we have had several generous supporters, including Paul Jessop, Dean Winslow, Dinant Riks. We also thank David Roberts for his advice.
+Many have helped us on our way, most of whom are inspectors and instructors with their time and expertise. Over the past years we have had several generous supporters, including (in alphabetical order of last name) Paul Jessop, David Pemberton, Dinant Riks, and Dean Winslow. We thank Tim Freegarde and Jim Crawford for the truly innumerable number of hours they have worked on our aircraft.
 <div class="feature-section">
   <div class="feature-image">
     <img src="/assets/images/support_us/DW.jpg" alt="DW">
